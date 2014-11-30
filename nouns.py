@@ -225,6 +225,27 @@ def prepare_shelf():
                      'Vocative': u'γρᾶες',
                      }
         }
+    SHELF['ὁ βασιλεύς'] = {
+        'Singular': {'Nominative': u'βᾰσῐλεύς',
+                     'Genitive': u'βᾰσῐλέως',
+                     'Dative': u'βᾰσῐλεῖ',
+                     'Accusative': u'βᾰσῐλέᾱ',
+                     'Vocative': u'βᾰσῐλεῦ',
+                     },
+        'Dual':     {'Nominative': u'βᾰσῐλῆ',
+                     'Genitive': u'βᾰσῐλέοιν',
+                     'Dative': u'βᾰσῐλέοιν',
+                     'Accusative': u'βᾰσῐλῆ',
+                     'Vocative': u'βᾰσῐλῆ',
+                     },
+        'Plural':   {'Nominative': u'βᾰσῐλεῖς',
+                     'Genitive': u'βᾰσῐλέων',
+                     'Dative': u'βᾰσῐλεῦσῐ(ν)',
+                     'Accusative': u'βᾰσῐλέᾱς',
+                     'Vocative': u'βᾰσῐλεῖς',
+                     }
+        }
+
 
 def download_and_save(word):
     html = anki.get_html_from_wiktionary(word)
