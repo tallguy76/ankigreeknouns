@@ -97,7 +97,7 @@ def prepare_shelf():
         'Plural':   {'Nominative': u'(περίπλοοι) περίπλοι',
                      'Genitive': u'(περιπλόων) περίπλων',
                      'Dative': u'(περιπλόοις) περίπλοις',
-                     'Accusative': u'(περιπλόους) περίπλοις',
+                     'Accusative': u'(περιπλόους) περίπλους',
                      'Vocative': u'(περίπλοοι) περίπλοι',
                      }
         }
