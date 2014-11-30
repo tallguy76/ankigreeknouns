@@ -10,31 +10,48 @@ import ankigreekutil as anki
 
 WIKTIONARY = 'http://en.wiktionary.org/wiki/'
 WORDS = ['λύω']
-REPRESENTATIONS = {'imperfect': '(παρατατικός)<br>----    |',
-                   'present': '(ἐνεστὼς χρόνος)<br>--|--',
-                   'future': '(μέλλων)<br>|    -<br>|    -----',
-                   'perfect': '(παρακείμενος χρόνος)<br>----|',
-                   'pluperfect': '(υπερσυντελικὸς χρόνος)<br>----X    |',
-                   'aorist': '(ἀόριστος χρόνος)<br>-   |',
-                   'future perfect': '(τετελέσμενος μέλλων)<br>|    ----    X',
-                   'indicative': '(ὁριστηκὴ ἔγκλισις)<br>👉 ',
-                   'imperative': '(προστακτικὴ ἔγκλισις)<br>✋ ',
-                   'subjunctive': '(ὑποτακτικὴ ἔγκλισις)<br>ἄν',
-                   'optative': '(εὐτικὴ ἔγκλισις)<br>εἰ',
-                   '1st': '(πρῶτον πρόσωπον)<br>ἐγώ',
-                   '2nd': '(δεύτερον πρόσωπον)<br>σύ',
-                   '3rd': '(τρίτον πρόσωπον)<br>ἐκεῖνος',
-                   '2nd dual': '(δεύτερον δυϊκὸν πρόσωπον)<br>σφώ',
-                   '3rd dual': '(τρίτον δυϊκὸν πρόσωπον)<br>ἐκείνω',
-                   '1st plural': 'ἡμεῖς',
-                   '2nd plural': 'ὑμεῖς',
-                   '3rd plural': 'σφεῖς',
-                   'infinitive': '(ἀπαρέμφατος ἔγκλισις)<br>∞',
-                   'active': '(ἐνεργετικός)<br>🏃 ',
-                   'middle': '(μέσος)<br>🔁 ',
-                   'passive': '(παθητικός)<br>☔️ '
+REPRESENTATIONS = {'imperfect': 'i',
+                   'present': 'p',
+                   'future': 'f',
+                   'perfect': 'per',
+                   'pluperfect': 'plup',
+                   'aorist': 'f',
+                   'future perfect': 'futp',
+                   '1st future': 'f',
+                   '1st aorist': 'a',
+                   '2nd aorist': 'a',
+                   '1st perfect': 'per',
+                   '2nd perfect': 'per',
+                   '1st pluperfect': 'plup',
+                   '2nd pluperfect': 'plup',
+                   'indicative': 'i',
+                   'imperative': 'imp',
+                   'subjunctive': 's',
+                   'optative': 'o',
+                   'participle': '',
+                   '1st': 's1',
+                   '2nd': 's2',
+                   '3rd': 's3',
+                   '2nd dual': 'd2',
+                   '3rd dual': 'd3',
+                   '1st plural': 'p1',
+                   '2nd plural': 'p2',
+                   '3rd plural': 'p3',
+                   'infinitive': 'inf',
+                   'active': '',
+                   'middle': 'mid',
+                   'mid-pas': 'm-p',
+                   'passive': 'pas',
+                   'Singular': 's',
+                   'Dual': 'd',
+                   'Plural': 'p',
+                   'Nominative': 'n',
+                   'Vocative': 'v',
+                   'Genitive': 'g',
+                   'Dative': 'd',
+                   'Accusative': 'a'
                    }
-VOICE = ['active', 'middle', 'passive']
+VOICE = ['active', 'middle', 'mid-pas', 'passive']
 MOOD = ['indicative', 'subjunctive', 'optative', 'imperative', 'infinitive',
         'participle']
 TENSE = ['present', 'imperfect', 'future', '1st future', '1st aorist',
@@ -226,11 +243,11 @@ def prepare_shelf():
 
     # Middle
 
-    set_verb_form(luo, 'middle', 'indicative', 'present',
+    set_verb_form(luo, 'mid-pas', 'indicative', 'present',
                   ['λύ̄ομαι', 'λύ̄ῃ / λύ̄ει', 'λύ̄εται', 'λύ̄εσθον',
                    'λύ̄εσθον', 'λῡόμεθα', 'λύ̄εσθε', 'λύ̄ονται'])
 
-    set_verb_form(luo, 'middle', 'indicative', 'imperfect',
+    set_verb_form(luo, 'mid-pas', 'indicative', 'imperfect',
                   ['ἐλῡόμην', 'ἐλύ̄ου', 'ἐλύ̄ετο', 'ἐλύ̄εσθον', 'ἐλῡέσθην',
                    'ἐλῡόμεθα', 'ἐλύ̄εσθε', 'ἐλύ̄οντο'])
 
@@ -238,11 +255,11 @@ def prepare_shelf():
                   ['λύ̄σομαι', 'λύ̄σῃ / λύ̄σει', 'λύ̄σεται', 'λύ̄σεσθον',
                    'λύ̄σεσθον', 'λῡσόμεθα', 'λύ̄σεσθε', 'λύ̄σονται'])
 
-    set_verb_form(luo, 'middle', 'subjunctive', 'present',
+    set_verb_form(luo, 'mid-pas', 'subjunctive', 'present',
                   ['λύ̄ωμαι', 'λύ̄ῃ', 'λύ̄ηται', 'λύ̄ησθον', 'λύ̄ησθον',
                    'λῡώμεθα', 'λύ̄ησθε', 'λύ̄ωνται'])
 
-    set_verb_form(luo, 'middle', 'optative', 'present',
+    set_verb_form(luo, 'mid-pas', 'optative', 'present',
                   ['λῡοίμην', 'λύ̄οιο', 'λύ̄οιτο', 'λύ̄οισθον', 'λῡοίσθην',
                    'λῡοίμεθα', 'λύ̄οισθε', 'λύ̄οιντο'])
 
@@ -250,14 +267,14 @@ def prepare_shelf():
                   ['λῡσοίμην', 'λύ̄σοιο', 'λύ̄σοιτο', 'λύ̄σοισθον',
                    'λῡσοίσθην', 'λῡσοίμεθα', 'λύ̄σοισθε', 'λύ̄σοιντο'])
 
-    set_verb_form(luo, 'middle', 'imperative', 'present',
+    set_verb_form(luo, 'mid-pas', 'imperative', 'present',
                   ['', 'λύ̄ου', 'λῡέσθω', 'λύ̄εσθον', 'λῡέσθων', '', 'λύ̄εσθε',
                    'λῡέσθων'])
 
-    set_verb_form(luo, 'middle', 'infinitive', 'present', 'λύ̄εσθαι')
+    set_verb_form(luo, 'mid-pas', 'infinitive', 'present', 'λύ̄εσθαι')
     set_verb_form(luo, 'middle', 'infinitive', 'future', 'λύ̄σεσθαι')
 
-    set_verb_form(luo, 'middle', 'participle', 'present',
+    set_verb_form(luo, 'mid-pas', 'participle', 'present',
                   [['λῡόμενος', 'λῡομένη', 'λῡόμενον'],
                    ['λῡομένου', 'λῡομένης', 'λῡομένου'],
                    ['λῡομένῳ', 'λῡομένῃ', 'λῡομένῳ'],
@@ -287,11 +304,11 @@ def prepare_shelf():
                   ['ἐλῡσάμην', 'ἐλύ̄σω', 'ἐλύ̄σατο', 'ἐλύ̄σασθον', 'ἐλῡσάσθην',
                       'ἐλῡσάμεθα', 'ἐλύ̄σασθε', 'ἐλύ̄σαντο'])
 
-    set_verb_form(luo, 'middle', 'indicative', 'perfect',
+    set_verb_form(luo, 'mid-pas', 'indicative', 'perfect',
                   ['λέλυμαι', 'λέλυσαι', 'λέλυται', 'λέλυσθον', 'λέλυσθον',
                    'λελύμεθα', 'λέλυσθε', 'λέλυνται'])
 
-    set_verb_form(luo, 'middle', 'indicative', 'pluperfect',
+    set_verb_form(luo, 'mid-pas', 'indicative', 'pluperfect',
                   ['ἐλελύμην', 'ἐλέλυσο', 'ἐλέλυτο', 'ἐλέλυσθον',
                    'ἐλελύσθην', 'ἐλελύμεθα', 'ἐλέλυσθε', 'ἐλέλυντο'])
 
@@ -299,7 +316,7 @@ def prepare_shelf():
                   ['λύ̄σωμαι', 'λύ̄σῃ', 'λύ̄σηται', 'λύ̄σησθον', 'λύ̄σησθον',
                    'λῡσώμεθα', 'λύ̄σησθε', 'λύ̄σωνται'])
 
-    set_verb_form(luo, 'middle', 'subjunctive', 'perfect',
+    set_verb_form(luo, 'mid-pas', 'subjunctive', 'perfect',
                   ['λελυμένος ὦ', 'λελυμένος ᾖς', 'λελυμένος ᾖ',
                    'λελυμένω ἦτον', 'λελυμένω ἦτον', 'λελυμένοι ὦμεν',
                    'λελυμένοι ἦτε', 'λελυμένοι ὦσι'])
@@ -308,7 +325,7 @@ def prepare_shelf():
                   ['λῡσαίμην', 'λύ̄σαιο', 'λύ̄σαιτο', 'λύ̄σαισθον',
                    'λῡσαίσθην', 'λῡσαίμεθα', 'λύ̄σαισθε', 'λύ̄σαιντο'])
 
-    set_verb_form(luo, 'middle', 'optative', 'perfect',
+    set_verb_form(luo, 'mid-pas', 'optative', 'perfect',
                   ['λελυμένος εἴην', 'λελυμένος εἴης', 'λελυμένος εἴη',
                    'λελυμένω εἴητον / λελυμένω εἶτον',
                    'λελυμένω εἰήτην / λελυμένω εἴτην',
@@ -320,12 +337,12 @@ def prepare_shelf():
                   ['', 'λῦσαι', 'λῡσάσθω', 'λύ̄σασθον', 'λῡσάσθων', '',
                    'λύ̄σασθε', 'λῡσάσθων'])
 
-    set_verb_form(luo, 'middle', 'imperative', 'perfect',
+    set_verb_form(luo, 'mid-pas', 'imperative', 'perfect',
                   ['', 'λέλυσο', 'λελύσθω', 'λέλυσθον', 'λελύσθων', '',
                    'λέλυσθε', 'λελύσθων'])
 
     set_verb_form(luo, 'middle', 'infinitive', '1st aorist', 'λύ̄σασθαι')
-    set_verb_form(luo, 'middle', 'infinitive', 'perfect', 'λελύσθαι')
+    set_verb_form(luo, 'mid-pas', 'infinitive', 'perfect', 'λελύσθαι')
 
     set_verb_form(luo, 'middle', 'participle', '1st aorist',
                   [['λῡσάμενος', 'λῡσαμένη', 'λῡσάμενον'],
@@ -340,7 +357,7 @@ def prepare_shelf():
                    ['λῡσαμένοις', 'λῡσαμέναις', 'λῡσαμένοις'],
                    ['λῡσαμένους', 'λῡσαμένᾱς', 'λῡσάμενα']])
 
-    set_verb_form(luo, 'middle', 'participle', 'perfect',
+    set_verb_form(luo, 'mid-pas', 'participle', 'perfect',
                   [['λελῡομένος', 'λελῡομένη', 'λελῡομενον'],
                    ['λελῡομένου', 'λελῡομένης', 'λελῡομένου'],
                    ['λελῡομένῳ', 'λελῡομένῃ', 'λελῡομένῳ'],
@@ -448,32 +465,28 @@ def parse_args():
 
 
 def make_answer(voice, mood, tense, person=None):
-    mm = {'voice': voice,
-          'mood': mood,
-          'tense': tense,
-          'person': person}
-    answer = ''
-    for ee in ['person', 'tense', 'mood', 'voice']:
-        if mm[ee] == 'participle':
-            continue
-        if mm[ee] is None:
-            continue
-        elem = mm[ee]
-        parts = mm[ee].split(' ')
-        if ee == 'tense':
-            if len(parts) > 1 and parts[0] in ['1st', '2nd']:
-                elem = ' '.join(parts[1:])
-        if answer != '':
-            answer += '<br>'
-        answer += REPRESENTATIONS[elem]
+    answer = REPRESENTATIONS[tense] + REPRESENTATIONS[mood] + ' '
+    answer += REPRESENTATIONS[voice]
+    if person != None:
+        answer += ' ' + REPRESENTATIONS[person]
     return answer
 
 
 def make_participle_answer(voice, mood, tense, number, case, gender):
     answer = make_answer(voice, mood, tense)
-    article = anki.ARTICLE_MAP[gender][number][case]
-    return article + u'<br>' + unicode(answer, 'utf-8')
+    return unicode(answer, 'utf-8') + " " + gender + REPRESENTATIONS[number] + REPRESENTATIONS[case]
 
+def ignore_case(gender,number,case):
+  if number is 'Dual':
+    if case in ['Accusative','Vocative','Dative']:
+      return True
+  if number is 'Plural':
+    if case is 'Vocative':
+      return True
+  if gender is 'n':
+    if case in ['Accusative','Vocative']:
+      return True
+  return False
 
 def all_words(word):
     output = []
@@ -519,6 +532,8 @@ def make_cards(word, tenses):
                     for nn in NUMBER:
                         for cc in CASE:
                             for gg in GENDER:
+                                if ignore_case(gg,nn,cc):
+                                  continue
                                 words = all_words(word[vv][mm][tt][nn][cc][gg])
                                 for form in words:
                                     if form:
@@ -578,10 +593,10 @@ def output_cards(tenses=None):
         reversefile = REVERSEFILE + '.' + tenses + '.txt'
     with open(verbfile, 'w') as ff:
         for kk, vv in card_mm.iteritems():
-            ff.write(kk + '; ' + '<br><br>'.join(vv) + "\n")
+            ff.write(kk + '; ' + '<br>'.join(vv) + "\n")
     with open(reversefile, 'w') as ff:
         for kk, vv in card_rr.iteritems():
-            ff.write(kk + '; ' + '<br><br>'.join(vv) + "\n")
+            ff.write(kk + '; ' + '<br>'.join(vv) + "\n")
 
 
 def main():
