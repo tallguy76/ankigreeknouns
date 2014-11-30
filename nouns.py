@@ -103,7 +103,7 @@ def prepare_shelf():
         }
     SHELF['ἡ μήτηρ'] = {
         'Singular': {'Nominative': u'μήτηρ',
-                     'Genitive': u'μήτρός',
+                     'Genitive': u'μητρός',
                      'Dative': u'μητρί',
                      'Accusative': u'μητέρα',
                      'Vocative': u'μῆτερ',
@@ -226,7 +226,6 @@ def prepare_shelf():
                      }
         }
 
-
 def download_and_save(word):
     html = anki.get_html_from_wiktionary(word)
     forms = get_noun_forms(html)
@@ -259,43 +258,47 @@ def output_word_defs(word):
     # dict_form = article + ' ' + nom_sing
     # unfortunately the dictionary is not regular
     dict_form = unicode(word, 'utf-8')
+    gensing = clean_form(SHELF[word]['Singular']['Genitive'])
+    gensing_article = article_for_word(word, 'Singular', 'Genitive')
+    gensing_form = gensing_article + " " + gensing
 
-    cases = ['Singular', 'Plural', 'Dual']
+    numbers = ['Singular', 'Plural', 'Dual']
     defs = {}
     if not SHELF[word].get('Singular'):
         print (u"Bad defintion for " + unicode(word, 'utf-8')).encode('utf-8')
-    for case in cases:
-        if not SHELF[word].get(case):
+    for number in numbers:
+        if not SHELF[word].get(number):
             continue
-        for decl, form in SHELF[word][case].iteritems():
-            article = article_for_word(word, case, decl)
+        for decl, form in SHELF[word][number].iteritems():
+            article = article_for_word(word, number, decl)
             for ff in min_form(clean_form(form)):
                 if not defs.get(ff):
                     defs[ff] = []
-                defs[ff].append([case, decl])
+                defs[ff].append([number, decl])
             ss = dict_form + "<br>" + article + " ________; "
             answers = min_form(clean_form(form))
             answers = map(lambda xx: article + ' ' + xx, answers)
             ss += "<br>".join(answers)
 
-            if not ignore_cases(article, case, decl):
+            if not ignore_cases(article, number, decl):
                 with open(anki.NOUNS_REVERSE, 'a') as ff:
                     ff.write(ss.encode('utf-8') + "\n")
 
     # forward
     for form in defs.keys():
-        articles = set()
-        for case, decl in defs[form]:
-            articles.add(article_for_word(word, case, decl))
+        full_forms = set()
+        for number, decl in defs[form]:
+            full_forms.add(article_for_word(word, number, decl) + ' ' + clean_form(SHELF[word][number][decl]) )
         ss = form + '; '
-        for article in articles:
-            ss += article + ' ' + form + '<br>'
+        for full_form in full_forms:
+            ss += full_form + '<br>'
         ss += '<br>' + dict_form
+        ss += ', ' + gensing_form
         with open(anki.NOUNS_FILE, 'a') as ff:
             ff.write(ss.encode('utf-8') + "\n")
 
 
-def ignore_cases(article, case, decl):
+def ignore_cases(article, number, decl):
     article = article.split('/')[0]
     noms = [u'τὼ', u'τὸ', u'τὰ', u'οἱ', u'αἱ']
     if article in noms:
@@ -332,7 +335,7 @@ def remove_parens(word):
     return word
 
 
-def article_for_word(word, case, decl):
+def article_for_word(word, number, decl):
     word_article = unicode(word.split(' ')[0], 'utf-8')
     if word_article == u'ὁ':
         gender = 'm'
@@ -347,11 +350,11 @@ def article_for_word(word, case, decl):
         raise Exception('Could not find article')
 
     if gender == 'm/f':
-        first = anki.ARTICLE_MAP['m'][case][decl]
-        second = anki.ARTICLE_MAP['f'][case][decl]
+        first = anki.ARTICLE_MAP['m'][number][decl]
+        second = anki.ARTICLE_MAP['f'][number][decl]
         return first + '/' + second
 
-    return anki.ARTICLE_MAP[gender][case][decl]
+    return anki.ARTICLE_MAP[gender][number][decl]
 
 
 def clean_form(form):
@@ -360,7 +363,7 @@ def clean_form(form):
                 u'τοῦ/τῆς', u'τοὺς/τὰς', u'τοῖς/ταῖς']
     split = form.split(' ')
     if len(split) == 2 and split[0] in articles:
-        return split[1]
+        return " ".join(split[1:])
     return form
 
 
