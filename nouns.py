@@ -238,7 +238,7 @@ def prepare_shelf():
                      'Accusative': u'βᾰσῐλῆ',
                      'Vocative': u'βᾰσῐλῆ',
                      },
-        'Plural':   {'Nominative': u'βᾰσῐλεῖς',
+        'Plural':   {'Nominative': u'βᾰσῐλεῖς/βᾰσῐλῆς',
                      'Genitive': u'βᾰσῐλέων',
                      'Dative': u'βᾰσῐλεῦσῐ(ν)',
                      'Accusative': u'βᾰσῐλέᾱς',
