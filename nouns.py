@@ -245,6 +245,9 @@ def prepare_shelf():
                      'Vocative': u'βᾰσῐλῆς / βᾰσῐλεῖς',
                      }
         }
+    hermes = SHELF['ὁ Ἑρμῆς']
+    hermes['Singular']['Accusative'] = u'(Ἑρμέην) Ἑρμῆν'
+    SHELF['ὁ Ἑρμῆς'] = hermes
 
 
 def download_and_save(word):
