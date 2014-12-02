@@ -393,6 +393,7 @@ def output_word_defs(word):
             answers = min_form(clean_form(form))
             answers = map(lambda xx: article + ' ' + xx, answers)
             ss += "<br>".join(answers)
+            ss += "<br><br>" + gensing_form
 
             if not ignore_cases(article, number, decl):
                 with open(anki.NOUNS_REVERSE, 'a') as ff:
