@@ -19,11 +19,21 @@ def main():
         prepare_shelf()
         create_noun_files(anki.NOUNS)
 
+def regularize_neuter(record):
+    record['Singular']['Accusative'] = record['Singular']['Vocative'] = record['Singular']['Nominative']
+    record['Dual']['Accusative'] = record['Dual']['Vocative'] = record['Dual']['Nominative']
+    record['Dual']['Dative'] = record['Dual']['Genitive']
+    record['Plural']['Accusative'] = record['Plural']['Vocative'] = record['Plural']['Nominative']
+
+def regularize(record):
+    record['Dual']['Accusative'] = record['Dual']['Vocative'] = record['Dual']['Nominative']
+    record['Dual']['Dative'] = record['Dual']['Genitive']
+    record['Plural']['Vocative'] = record['Plural']['Nominative']
 
 def prepare_shelf():
     SHELF['ἡ μνᾶ'] = {
         'Singular': {'Nominative': u'μνᾶ',
-                     'Genitive': u'μνᾶς',
+                     'Genitive': u'(μνάᾱς) μνᾶς',
                      'Dative': u'μνᾷ',
                      'Accusative': u'μνᾶν',
                      'Vocative': u'μνᾶ',
@@ -43,22 +53,22 @@ def prepare_shelf():
         }
     SHELF['ἡ συκῆ'] = {
         'Singular': {'Nominative': u'σῡκῆ',
-                     'Genitive': u'σῡκῆς',
-                     'Dative': u'σῡκῇ',
-                     'Accusative': u'σῡκῆν',
-                     'Vocative': u'σῡκῆ',
+                     'Genitive': u'(σῡκέᾱς) σῡκῆς',
+                     'Dative': u'συκῇ',
+                     'Accusative': u'συκῆν',
+                     'Vocative': u'συκῆ',
                      },
-        'Dual':     {'Nominative': u'σῡκᾶ',
-                     'Genitive': u'σῡκαῖν',
-                     'Dative': u'σῡκαῖν',
-                     'Accusative': u'σῡκᾶ',
-                     'Vocative': u'σῡκᾶ',
+        'Dual':     {'Nominative': u'συκᾶ',
+                     'Genitive': u'συκαῖν',
+                     'Dative': u'συκαῖν',
+                     'Accusative': u'συκᾶ',
+                     'Vocative': u'συκᾶ',
                      },
-        'Plural':   {'Nominative': u'σῡκαῖ',
-                     'Genitive': u'σῡκῶν',
-                     'Dative': u'σῡκαῖς',
-                     'Accusative': u'σῡκᾶς',
-                     'Vocative': u'σῡκαῖ',
+        'Plural':   {'Nominative': u'συκαῖ',
+                     'Genitive': u'συκῶν',
+                     'Dative': u'συκαῖς',
+                     'Accusative': u'συκᾶς',
+                     'Vocative': u'συκαῖ',
                      }
         }
     SHELF['ὁ νοῦς'] = {
@@ -123,15 +133,15 @@ def prepare_shelf():
         }
     SHELF['ὁ Σωκράτης'] = {
         'Singular': {'Nominative': u'Σωκράτης',
-                     'Genitive': u'(Σωκράτεος) Σωκράτους',
+                     'Genitive': u'(Σωκράτεσος) Σωκράτους',
                      'Dative': u'(Σωκράτει) Σωκράτει',
-                     'Accusative': u'(Σωκράτεα) Σωκράτη',
+                     'Accusative': u'(Σωκράτεα) Σωκράτη / Σωκράτην',
                      'Vocative': u'Σώκρατες',
                      }
         }
     SHELF['ἡ τριήρης'] = {
         'Singular': {'Nominative': u'τριήρης',
-                     'Genitive': u'(τριήρεος) τριήρους',
+                     'Genitive': u'(τριήρεσος) τριήρους',
                      'Dative': u'(τριήρει) τριήρει',
                      'Accusative': u'(τριήρεα) τριήρη',
                      'Vocative': u'τριῆρες',
@@ -151,8 +161,8 @@ def prepare_shelf():
         }
     SHELF['τὸ γέρας'] = {
         'Singular': {'Nominative': u'γέρας',
-                     'Genitive': u'(γέραος) γέρως',
-                     'Dative': u'(γέραι) γέραι',
+                     'Genitive': u'(γέρασος) γέρως',
+                     'Dative': u'γέραι / γέρᾳ',
                      'Accusative': u'γέρας',
                      'Vocative': u'γέρας',
                      },
@@ -227,7 +237,7 @@ def prepare_shelf():
         }
     SHELF['ὁ βασιλεύς'] = {
         'Singular': {'Nominative': u'βᾰσῐλεύς',
-                     'Genitive': u'βᾰσῐλέως',
+                     'Genitive': u'(βασιλῆϝος) βᾰσῐλέως',
                      'Dative': u'βᾰσῐλεῖ',
                      'Accusative': u'βᾰσῐλέᾱ',
                      'Vocative': u'βᾰσῐλεῦ',
@@ -248,6 +258,86 @@ def prepare_shelf():
     hermes = SHELF['ὁ Ἑρμῆς']
     hermes['Singular']['Accusative'] = u'(Ἑρμέην) Ἑρμῆν'
     SHELF['ὁ Ἑρμῆς'] = hermes
+    sus = SHELF['ὁ/ἡ σῦς']
+    sus['Plural']['Dative'] = u'συσί(ν)'
+    sus['Singular']['Genitive'] = u'σῠός'
+    SHELF['ὁ/ἡ σῦς'] = sus
+    rhetor = SHELF['ὁ ῥήτωρ']
+    rhetor['Singular']['Vocative'] = u'ῥῆτορ'
+    SHELF['ὁ ῥήτωρ'] = rhetor
+    ichthus = SHELF['ὁ ἰχθύς']
+    ichthus['Singular']['Vocative'] = u'ἰχθύ̄'
+    ichthus['Singular']['Accusative'] = u'ἰχθύ̄ν'
+    ichthus['Singular']['Nominative'] = u'ἰχθύ̄ς'
+    SHELF['ὁ ἰχθύς'] = ichthus
+    nike = SHELF['ἡ νίκη']
+    nike['Singular']['Nominative'] = u'νί̄κη'
+    nike['Singular']['Genitive'] = u'νί̄κης'
+    SHELF['ἡ νίκη'] = nike
+    heros = SHELF['ὁ ἥρως']
+    heros['Singular']['Dative'] = u'ἥρωϊ / ἥρῳ'
+    heros['Singular']['Accusative'] = u'ἥρωα / ἥρω'
+    SHELF['ὁ ἥρως'] = heros
+    genos = SHELF['τὸ γένος']
+    genos['Singular']['Genitive'] = u'(γένεσος) γένους'
+    genos['Singular']['Dative'] = u'(γένεϊ) γένει'
+    genos['Dual']['Nominative'] = u'(γένεε) γένει'
+    genos['Dual']['Genitive'] = u'(γενέοιν) γενοῖν'
+    genos['Plural']['Nominative'] = u'(γένεα) γένη'
+    genos['Plural']['Genitive'] = u'γενέων / γενῶν'
+    genos['Plural']['Dative'] = u'(γένεσσιν) γένεσι(ν)'
+    regularize_neuter(genos)
+    SHELF['τὸ γένος'] = genos
+    ris = SHELF['ἡ ῥίς']
+    ris['Singular']['Nominative'] = u'ῥί̄ς'
+    ris['Singular']['Genitive'] = u'ῥῑνός'
+    ris['Singular']['Vocative'] = ris['Singular']['Nominative']
+    SHELF['ἡ ῥίς'] = ris
+    boreas = SHELF['ὁ Βορρᾶς']
+    boreas['Singular']['Nominative'] = u'(Βορέᾱς) Βορρᾶς'
+    boreas['Singular']['Genitive'] = u'(Βορέᾱ) Βορρᾶ / Βορροῦ'
+    boreas['Singular']['Vocative'] = u'Βορρᾶ'
+    SHELF['ὁ Βορρᾶς'] = boreas
+    keras = SHELF['τὸ κέρας']
+    keras['Singular']['Genitive'] = u'κέρᾱτος / (κέρασος) κέρως'
+    keras['Singular']['Dative'] = u'κέρατι / κέραι'
+    keras['Dual']['Nominative'] = u'κέρατε / κέρᾱ'
+    keras['Dual']['Genitive'] = u'κεράτοιν / κερῷν'
+    keras['Plural']['Nominative'] = u'κέρατα / κέρᾱ'
+    keras['Plural']['Genitive'] = u'κεράτων / κερῶν'
+    keras['Plural']['Dative'] = u'κέρᾱσι(ν)'
+    regularize_neuter(keras)
+    SHELF['τὸ κέρας'] = keras
+    ois = SHELF['ὁ/ἡ οἶς']
+    ois['Singular']['Genitive'] = u'(ὀϝιός) οἰός'
+    SHELF['ὁ/ἡ οἶς'] = ois
+    peitho = SHELF['ἡ πειθώ']
+    peitho['Singular']['Genitive'] = u'(πειθόι̯ος) πειθοῦς'
+    peitho['Singular']['Dative'] = u'(πειθόι̯ι) πειθοῖ'
+    peitho['Singular']['Accusative'] = u'(πειθόι̯α) πειθώ'
+    peitho['Singular']['Vocative'] = u'(πειθόι̯) πειθοῖ'
+    SHELF['ἡ πειθώ'] = peitho
+    naus = SHELF['ἡ ναῦς']
+    naus['Singular']['Genitive'] = u'(νᾱϝός) νεώς'
+    SHELF['ἡ ναῦς'] = naus
+    neos = SHELF['ὁ νεώς']
+    neos['Singular']['Nominative'] = u'(νηός) νεώς'
+    neos['Singular']['Genitive'] = u'(νηοῦ) νεώ'
+    neos['Singular']['Dative'] = u'(νηῷ) νεῴ'
+    neos['Singular']['Accusative'] = u'(νηόν) νεών'
+    neos['Dual']['Nominative'] = u'(νηώ) νεώ'
+    neos['Dual']['Genitive'] = u'(νηοῖν) νεῴν'
+    neos['Plural']['Nominative'] = u'(νηοί) νεῴ'
+    neos['Plural']['Genitive'] = u'(νηῶν) νεών'
+    neos['Plural']['Dative'] = u'(νηοῖς) νεῴς'
+    neos['Plural']['Accusative'] = u'(νηούς) νεώς'
+    regularize(neos)
+    SHELF['ὁ νεώς'] = neos
+    osteon = SHELF['τὸ ὀστοῦν']
+    osteon['Singular']['Genitive'] = u'(ὀστέου) ὀστοῦ'
+    SHELF['τὸ ὀστοῦν'] = osteon
+
+
 
 
 def download_and_save(word):
