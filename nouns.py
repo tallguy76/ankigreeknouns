@@ -181,7 +181,7 @@ def prepare_shelf():
         }
     SHELF['τὸ δέος'] = {
         'Singular': {'Nominative': u'δέος',
-                     'Genitive': u'(δέεος) δέους',
+                     'Genitive': u'(δέεσος) δέους',
                      'Dative': u'(δέει) δέει',
                      'Accusative': u'δέος',
                      'Vocative': u'δέος',
@@ -189,7 +189,7 @@ def prepare_shelf():
         }
     SHELF['ἡ αἰδώς'] = {
         'Singular': {'Nominative': u'αἰδώς',
-                     'Genitive': u'(αἰδόος) αἰδοῦς',
+                     'Genitive': u'(αἰδόσος) αἰδοῦς',
                      'Dative': u'(αἰδόι) αἰδοῖ',
                      'Accusative': u'(αἰδόα) αἰδῶ',
                      'Vocative': u'αἰδώς',
@@ -336,6 +336,9 @@ def prepare_shelf():
     osteon = SHELF['τὸ ὀστοῦν']
     osteon['Singular']['Genitive'] = u'(ὀστέου) ὀστοῦ'
     SHELF['τὸ ὀστοῦν'] = osteon
+    pericles = SHELF['ὁ Περικλῆς']
+    pericles['Singular']['Genitive'] = u'(Περικλέεσος) Περικλέους'
+    SHELF['ὁ Περικλῆς'] = pericles
 
 
 
