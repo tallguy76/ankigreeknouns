@@ -7,7 +7,7 @@ Greek Noun (and now verb) flash card generator for Anki
 
 The selected nouns are the paradigm nouns from Herbert Weir Smyth, _A Greek Grammar for Colleges_ (1920). The paradigm verb is λύω.
 
-To use, import the nouns.txt file into an Anki deck. Check "allow HTML in fields," and choose "Import even if existing note has same first field." This allows you to keep multiple decks with identical cards but different standards for learning. To update a deck originally made with an earlier version of this software, import the new version of the card file into the existing deck with "Update notes with matching first field." Old cards whose first fields do not match the current set will have to be deleted by hand.
+To use, import the nouns.txt file into an Anki deck. Check "allow HTML in fields," and choose "Import even if existing note has same first field." This allows you to keep multiple decks with identical cards but different standards for learning. To update a deck originally made with an earlier version of this software, import the new version of the card file into the existing deck with "Update existing notes when first field matches." Old cards whose first fields do not match the current set will have to be deleted by hand.
 
 Some discussion here: http://www.textkit.com/greek-latin-forum/viewtopic.php?f=2&t=62512
 

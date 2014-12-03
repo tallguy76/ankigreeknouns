@@ -405,7 +405,7 @@ def output_word_defs(word):
                 if not defs.get(ff):
                     defs[ff] = []
                 defs[ff].append([number, decl])
-            ss = dict_form + "<br>" + article + " ________; "
+            ss = dict_form + ": " + article + " ________; "
             ss += article + " " + clean_form(form)
             ss += "<br><br>" + gensing_form
 
