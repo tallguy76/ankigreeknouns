@@ -406,9 +406,7 @@ def output_word_defs(word):
                     defs[ff] = []
                 defs[ff].append([number, decl])
             ss = dict_form + "<br>" + article + " ________; "
-            answers = min_form(clean_form(form))
-            answers = map(lambda xx: article + ' ' + xx, answers)
-            ss += "<br>".join(answers)
+            ss += article + " " + clean_form(form)
             ss += "<br><br>" + gensing_form
 
             if not ignore_cases(article, number, decl):
