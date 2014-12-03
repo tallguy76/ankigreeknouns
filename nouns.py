@@ -142,7 +142,7 @@ def prepare_shelf():
     SHELF['ἡ τριήρης'] = {
         'Singular': {'Nominative': u'τριήρης',
                      'Genitive': u'(τριήρεσος) τριήρους',
-                     'Dative': u'(τριήρει) τριήρει',
+                     'Dative': u'(τριήρεϊ) τριήρει',
                      'Accusative': u'(τριήρεα) τριήρη',
                      'Vocative': u'τριῆρες',
                      },
@@ -197,7 +197,7 @@ def prepare_shelf():
         }
     SHELF['τὸ ἄστυ'] = {
         'Singular': {'Nominative': u'ἄστυ',
-                     'Genitive': u'ἄστεως',
+                     'Genitive': u'(ϝάστευ̯ος) ἄστεως',
                      'Dative': u'ἄστει',
                      'Accusative': u'ἄστυ',
                      'Vocative': u'ἄστυ',
@@ -275,6 +275,7 @@ def prepare_shelf():
     nike['Singular']['Genitive'] = u'νί̄κης'
     SHELF['ἡ νίκη'] = nike
     heros = SHELF['ὁ ἥρως']
+    heros['Singular']['Genitive'] = u'(ἥρωϝος) ἥρωος'
     heros['Singular']['Dative'] = u'ἥρωϊ / ἥρῳ'
     heros['Singular']['Accusative'] = u'ἥρωα / ἥρω'
     SHELF['ὁ ἥρως'] = heros
@@ -285,7 +286,7 @@ def prepare_shelf():
     genos['Dual']['Genitive'] = u'(γενέοιν) γενοῖν'
     genos['Plural']['Nominative'] = u'(γένεα) γένη'
     genos['Plural']['Genitive'] = u'γενέων / γενῶν'
-    genos['Plural']['Dative'] = u'(γένεσσιν) γένεσι(ν)'
+    genos['Plural']['Dative'] = u'(γένεσσι) γένεσι(ν)'
     regularize_neuter(genos)
     SHELF['τὸ γένος'] = genos
     ris = SHELF['ἡ ῥίς']
@@ -339,6 +340,18 @@ def prepare_shelf():
     pericles = SHELF['ὁ Περικλῆς']
     pericles['Singular']['Genitive'] = u'(Περικλέεσος) Περικλέους'
     SHELF['ὁ Περικλῆς'] = pericles
+    hepar = SHELF['τὸ ἧπαρ']
+    hepar['Singular']['Genitive'] = u'(ι̯ήπατος) ἥπατος'
+    SHELF['τὸ ἧπαρ'] = hepar
+    polis = SHELF['ἡ πόλις']
+    polis['Singular']['Genitive'] = u'(πόληι̯ος) πόλεως'
+    SHELF['ἡ πόλις'] = polis
+    pechus = SHELF['ὁ πῆχυς']
+    pechus['Singular']['Genitive'] = u'(πήχευ̯ος) πήχεως'
+    SHELF['ὁ πῆχυς'] = pechus
+    glotta = SHELF['ἡ γλῶττα']
+    glotta['Singular']['Genitive'] = u'(γλώχι̯ης) γλώττης'
+    SHELF['ἡ γλῶττα'] = glotta
 
 
 
