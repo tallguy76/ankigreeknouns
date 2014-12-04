@@ -346,7 +346,7 @@
 λῡσάμενα; a mid npn
 λύ̄σουσαν; f  fsa
 λελύ̄σοιτο; futpo pas s3
-λυθήσεσθαι; perinf pas
+λυθήσεσθαι; finf pas
 λύ̄σουσαι; f  fpn
 λῡομένᾱ; p m-p fdn
 λύ̄σαι; ao  s3

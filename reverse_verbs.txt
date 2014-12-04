@@ -277,7 +277,6 @@ futpo pas p2; λελύ̄σοισθε
 futpo pas p3; λελύ̄σοιντο
 futpo pas p1; λελῡσοίμεθα
 futp pas fsv; λελῡσομένη
-perinf pas; λυθήσεσθαι
 a pas mpd; λυθεῖσι<br>λυθεῖσιν
 ai pas p3; ἐλύθησαν
 per  fdg; λελυκυίαιν
@@ -413,6 +412,7 @@ perimp  d2; λελυκότε ἔστον<br>λελύκετον
 ao  d2; λύ̄σαιτον
 ao  d3; λῡσαίτην
 futp pas mpa; λελῡσομένους
+finf pas; λυθήσεσθαι
 pero m-p s1; λελυμένος εἴην
 pero m-p s2; λελυμένος εἴης
 pero m-p s3; λελυμένος εἴη

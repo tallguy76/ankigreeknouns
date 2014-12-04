@@ -409,7 +409,7 @@ def prepare_shelf():
     set_verb_form(luo, 'passive', 'infinitive', 'future perfect',
                   'λελύ̄σεσθαι')
     set_verb_form(luo, 'passive', 'infinitive', '1st aorist', 'λυθῆναι')
-    set_verb_form(luo, 'passive', 'infinitive', '1st perfect', 'λυθήσεσθαι')
+    set_verb_form(luo, 'passive', 'infinitive', '1st future', 'λυθήσεσθαι')
 
     set_verb_form(luo, 'passive', 'participle', 'future perfect',
                   [['λελῡσόμενος', 'λελῡσομένη', 'λελῡσόμενον'],
