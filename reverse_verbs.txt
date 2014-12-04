@@ -534,7 +534,7 @@ ai  p3; ἔλῡσαν
 per  fpn; λελυκυῖαι
 per  fpa; λελυκυίᾱς
 per  fpd; λελυκυίαις
-per  fpg; λελυκυλῶν
+per  fpg; λελυκυιῶν
 aimp pas p3; λυθέντων
 as mid p3; λύ̄σωνται
 as mid p2; λύ̄σησθε
