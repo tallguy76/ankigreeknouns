@@ -13,6 +13,7 @@
 λύ̄σαντας; a  mpa
 λῡσόντοιν; f  mdg<br>f  ndg
 λῡσούσαιν; f  fdg
+λελῡσομένους; futp pas mpa
 λύ̄σᾱσα; a  fsn<br>a  fsv
 λύ̄σᾱσι; a  mpd<br>a  npd
 λύ̄σων; f  msn<br>f  msv
@@ -25,6 +26,7 @@
 λῡσαμένων; a mid mpg<br>a mid fpg<br>a mid npg
 λελῡομένῳ; per m-p msd<br>per m-p nsd
 λῡσαμένου; a mid msg<br>a mid nsg
+λελῡσομένᾱ; futp pas fdn
 λελῡομένης; per m-p fsg
 λῡσομένᾱ; f mid fdn
 λελῡομένος; per m-p msn
@@ -37,6 +39,7 @@
 λύ̄ων; p  msn<br>p  msv
 λύ̄σοντες; f  mpn
 λελυκέναι; perinf 
+λελῡσομένω; futp pas mdn<br>futp pas ndn
 λύ̄σοντας; f  mpa
 λυθείσαις; a pas fpd
 λύ̄εσθαι; pinf m-p
@@ -69,6 +72,7 @@
 λῡσαμένης; a mid fsg
 λῡομένην; p m-p fsa
 λῡσάντοιν; a  mdg<br>a  ndg
+λελῡσόμεναι; futp pas fpn
 λύ̄ουσα; p  fsn<br>p  fsv
 λύ̄ουσι; p  mpd<br>p  npd<br>pi  p3
 λελῡομένᾱς; per m-p fpa
@@ -87,6 +91,8 @@
 λύ̄σειν; finf 
 λύ̄οντι; p  msd<br>p  nsd
 λελῡομενα; per m-p npn
+λελῡσομένῃ; futp pas fsd
+λελῡσομένοις; futp pas mpd<br>futp pas npd
 λῡσά̄σαιν; a  fdg
 λῡσομένων; f mid mpg<br>f mid fpg<br>f mid npg
 λῡομένᾱς; p m-p fpa
@@ -94,6 +100,7 @@
 λελυκότε; per  mdn<br>per  ndn
 λελυκότα; per  msa<br>per  npn
 λελυκότι; per  msd<br>per  nsd
+λελῡσομένῳ; futp pas msd<br>futp pas nsd
 λῡσά̄σας; a  fpa
 λῡσαμέναιν; a mid fdg
 λῡσομένου; f mid msg<br>f mid nsg
@@ -105,14 +112,19 @@
 λῡσόμενε; f mid msv
 λῡσαμένοιν; a mid mdg<br>a mid ndg
 λυθησομένης; f pas fsg
+λελῡσομένᾱς; futp pas fpa
 λῡσομένᾱς; f mid fpa
 λυθείσαιν; a pas fdg
 λῡσούσης; f  fsg
+λελῡσομένη; futp pas fsn<br>futp pas fsv
 λῡσομέναις; f mid fpd
 λῡσαμένᾱ; a mid fdn
+λελυκυιῶν; per  fpg
 λῡσούσᾱ; f  fdn
 λυθέντας; a pas mpa
+λελῡσομέναις; futp pas fpd
 λῡσᾱσῶν; a  fpg
+λελῡσομένου; futp pas msg<br>futp pas nsg
 λῡούσαιν; p  fdg
 λελῡομένω; per m-p mdn<br>per m-p ndn
 λῦον; p  nsn
@@ -142,18 +154,20 @@
 λύ̄σᾱσιν; a  mpd<br>a  npd
 λύ̄σαντος; a  msg<br>a  nsg
 λῡσομένῃ; f mid fsd
+λελῡσομένων; futp pas mpg<br>futp pas fpg<br>futp pas npg
 λυθέντα; a pas msa<br>a pas npn
 λυθέντε; a pas mdn<br>a pas ndn
 λῡσάμενε; a mid msv
 λυθέντι; a pas msd<br>a pas nsd
 λῡσάμενα; a mid npn
 λύ̄σουσαν; f  fsa
-λυθήσεσθαι; perinf pas
+λυθήσεσθαι; finf pas
 λύ̄σουσαι; f  fpn
 λῡομένᾱ; p m-p fdn
 λῡομένης; p m-p fsg
 λῡσάμενος; a mid msn
 λῡομένου; p m-p msg<br>p m-p nsg
+λελῡσομένης; futp pas fsg
 λῡσούσᾱς; f  fpa
 λύ̄οντας; p  mpa
 λυθησομένω; f pas mdn<br>f pas ndn
@@ -166,11 +180,14 @@
 λῡσούσαις; f  fpd
 λελυκόσιν; per  mpd<br>per  npd
 λῡσομέναιν; f mid fdg
+λελῡσομέναιν; futp pas fdg
 λυθησόμεναι; f pas fpn
 λελῡομένους; per m-p mpa
 λῡούσαις; p  fpd
 λύ̄ειν; pinf 
 λῡσά̄σης; a  fsg
+λελῡσόμενον; futp pas nsn<br>futp pas msa
+λελῡσόμενοι; futp pas mpn
 λυθεῖσαι; a pas fpn
 λυθεῖσαν; a pas fsa
 λυθεῖσιν; a pas mpd<br>a pas npd
@@ -181,7 +198,6 @@
 λῡούσᾱς; p  fpa
 λυθησομένῃ; f pas fsd
 λελῡομέναις; per m-p fpd
-λελυκυλῶν; per  fpg
 λυθεῖσι; a pas mpd<br>a pas npd
 λῡομένῳ; p m-p msd<br>p m-p nsd
 λῡσάμενον; a mid nsn<br>a mid msa
@@ -201,9 +217,12 @@
 λύ̄σᾱς; a  msn<br>a  msv
 λῡσαμένῃ; a mid fsd
 λυθησομένοις; f pas mpd<br>f pas npd
+λελῡσόμενα; futp pas npn
+λελῡσόμενε; futp pas msv
 λῡσαμένῳ; a mid msd<br>a mid nsd
 λυθείς; a pas msn<br>a pas msv
 λυθείσᾱς; a pas fpa
+λελῡσομένην; futp pas fsa
 λελυκότος; per  msg<br>per  nsg
 λῡουσῶν; p  fpg
 λελυκυίᾱς; per  fsg<br>per  fpa
@@ -219,8 +238,10 @@
 λελυκυῖα; per  fsn<br>per  fsv
 λυθείσης; a pas fsg
 λυθῆναι; ainf pas
+λελῡσομένοιν; futp pas mdg<br>futp pas ndg
 λελύσθαι; perinf m-p
 λῡομένη; p m-p fsn<br>p m-p fsv
 λῦσαι; ainf <br>aimp mid s2
 λῡσουσῶν; f  fpg
 λύ̄οντος; p  msg<br>p  nsg
+λελῡσόμενος; futp pas msn
