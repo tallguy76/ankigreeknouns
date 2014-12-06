@@ -56,7 +56,7 @@ def prepare_shelf():
                      'Genitive': u'(σῡκέᾱς) σῡκῆς',
                      'Dative': u'συκῇ',
                      'Accusative': u'συκῆν',
-                     'Vocative': u'συκῆ',
+                     'Vocative': u'σῡκῆ',
                      },
         'Dual':     {'Nominative': u'συκᾶ',
                      'Genitive': u'συκαῖν',
