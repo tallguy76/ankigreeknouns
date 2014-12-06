@@ -62,17 +62,17 @@ p m-p fpn; λῡόμεναι
 pi m-p s1; λύ̄ομαι
 pi m-p s3; λύ̄εται
 pi m-p s2; λύ̄ῃ<br>λύ̄ει
-per m-p mpa; λελῡομένους
+per m-p mpa; λελυμένους
 a  fpa; λῡσά̄σας
 a  mdg; λῡσάντοιν
 a  fpg; λῡσᾱσῶν
-per m-p mpd; λελῡομένοις
-per m-p mpg; λελῡομένων
+per m-p mpd; λελυμένοις
+per m-p mpg; λελυμένων
 a  fpd; λῡσά̄σαις
 a  mdn; λύ̄σαντε
 f pas ndn; λυθησομένω
 a  fpn; λύ̄σᾱσαι
-per m-p mpn; λελῡομένοι
+per m-p mpn; λελυμένοι
 a pas fsv; λυθεῖσα
 a pas fsg; λυθείσης
 a pas fsd; λυθείσῃ
@@ -93,7 +93,7 @@ ai mid s3; ἐλύ̄σατο
 ii m-p d2; ἐλύ̄εσθον
 pinf m-p; λύ̄εσθαι
 finf ; λύ̄σειν
-per m-p fsd; λελῡομένῃ
+per m-p fsd; λελυμένῃ
 fi mid p2; λύ̄σεσθε
 fi mid p3; λύ̄σονται
 fi mid p1; λῡσόμεθα
@@ -149,10 +149,10 @@ f mid ndg; λῡσομένοιν
 a mid mdn; λῡσαμένω
 aimp  p3; λῡσάντων
 aimp  p2; λύ̄σατε
-per m-p ndg; λελῡομένοιν
+per m-p ndg; λελυμένοιν
 perimp m-p p2; λέλυσθε
 a  msv; λύ̄σᾱς
-per m-p ndn; λελῡομένω
+per m-p ndn; λελυμένω
 f  fdn; λῡσούσᾱ
 a  msd; λύ̄σαντι
 p  ndn; λύ̄οντε
@@ -197,7 +197,7 @@ f pas mdg; λυθησομένοιν
 pers  s1; λελυκὼς ὦ<br>λελύκω
 pers  s3; λελυκὼς ᾖ<br>λελύκῃ
 pers  s2; λελυκὼς ᾖς<br>λελύκῃς
-per m-p mdn; λελῡομένω
+per m-p mdn; λελυμένω
 pi  s2; λύ̄εις
 pi  s3; λύ̄ει
 pi  s1; λύ̄ω
@@ -222,7 +222,7 @@ a mid fdg; λῡσαμέναιν
 p m-p mdn; λῡομένω
 fi pas p2; λυθήσεσθε
 perimp m-p s2; λέλυσο
-per m-p mdg; λελῡομένοιν
+per m-p mdg; λελυμένοιν
 fo pas p2; λυθήσοισθε
 fo pas p3; λυθήσοιντο
 aimp  s2; λῦσον
@@ -254,13 +254,13 @@ perimp m-p p3; λελύσθων
 f mid mpd; λῡσομένοις
 f mid mpg; λῡσομένων
 f mid mpn; λῡσόμενοι
-per m-p fdn; λελῡομένᾱ
+per m-p fdn; λελυμένᾱ
 f pas fpd; λυθησομέναις
 f pas fpg; λυθησομένων
 f pas fpa; λυθησομένᾱς
 per  npd; λελυκόσι<br>λελυκόσιν
 per  npg; λελυκότων
-per m-p fdg; λελῡομέναιν
+per m-p fdg; λελυμέναιν
 f pas fpn; λυθησόμεναι
 pero  d2; λελυκότε εἴητον<br>λελυκότε εἶτον<br>λελύκοιτον
 per  npn; λελυκότα
@@ -390,15 +390,15 @@ as pas p3; λυθῶσι
 as pas p2; λυθῆτε
 p m-p msg; λῡομένου
 p m-p msd; λῡομένῳ
-per m-p npn; λελῡομενα
+per m-p npn; λελυμένα
 ai pas d2; ἐλύθητον
 pero  s1; λελυκὼς εἴην<br>λελύκοιμι<br>λελύκοίην
 pero  s3; λελυκὼς εἴη<br>λελύκοι<br>λελύκοίη
 pero  s2; λελυκὼς εἴης<br>λελύκοις<br>λελύκοίης
-per m-p npg; λελῡομένων
-per m-p npd; λελῡομένοις
+per m-p npg; λελυμένων
+per m-p npd; λελυμένοις
 aimp pas s3; λυθήτω
-per m-p fsv; λελῡομένη
+per m-p fsv; λελυμένη
 aimp pas s2; λύθητι
 p m-p msn; λῡόμενος
 ai pas d3; ἐλυθήτην
@@ -446,17 +446,17 @@ ps  s3; λύ̄ῃ
 a mid msv; λῡσάμενε
 ao mid p2; λύ̄σαισθε
 ao mid p1; λῡσαίμεθα
-per m-p nsg; λελῡομένου
+per m-p nsg; λελυμένου
 ii m-p d3; ἐλῡέσθην
-per m-p nsd; λελῡομένῳ
+per m-p nsd; λελυμένῳ
 po m-p p2; λύ̄οισθε
 po m-p p3; λύ̄οιντο
 po m-p p1; λῡοίμεθα
-per m-p nsn; λελῡομενον
-per m-p fpa; λελῡομένᾱς
-per m-p fpg; λελῡομένων
-per m-p fpd; λελῡομέναις
-per m-p fpn; λελῡομεναι
+per m-p nsn; λελυμένον
+per m-p fpa; λελυμένᾱς
+per m-p fpg; λελυμένων
+per m-p fpd; λελυμέναις
+per m-p fpn; λελυμέναι
 futp pas fdg; λελῡσομέναιν
 futp pas mpn; λελῡσόμενοι
 fo mid d2; λύ̄σοισθον
@@ -477,14 +477,14 @@ pi  d2; λύ̄ετον
 a  nsg; λύ̄σαντος
 a  nsd; λύ̄σαντι
 ainf ; λῦσαι
-per m-p msv; λελῡομένε
+per m-p msv; λελυμένε
 a  nsn; λῦσαν
-per m-p msn; λελῡομένος
+per m-p msn; λελυμένος
 aimp mid d2; λύ̄σασθον
 aimp mid d3; λῡσάσθων
-per m-p msd; λελῡομένῳ
-per m-p msg; λελῡομένου
-per m-p msa; λελῡομένον
+per m-p msd; λελυμένῳ
+per m-p msg; λελυμένου
+per m-p msa; λελυμένον
 f mid fdg; λῡσομέναιν
 pero  p1; λελυκότες εἴημεν<br>λελυκότες εἶμεν<br>λελύκοιμεν
 pero  p2; λελυκότες εἴητε<br>λελυκότες εἶτε<br>λελύκοιτε
@@ -598,9 +598,9 @@ f  mdn; λύ̄σοντε
 pero m-p p1; λελυμένοι εἴημεν<br>λελυμένοι εἶμεν
 f  mdg; λῡσόντοιν
 pero m-p p2; λελυμένοι εἴητε<br>λελυμένοι εἶτε
-per m-p fsn; λελῡομένη
-per m-p fsa; λελῡομένην
-per m-p fsg; λελῡομένης
+per m-p fsn; λελυμένη
+per m-p fsa; λελυμένην
+per m-p fsg; λελυμένης
 f  npg; λῡσόντων
 ii m-p s1; ἐλῡόμην
 ii m-p s2; ἐλύ̄ου
