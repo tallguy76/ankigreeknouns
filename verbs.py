@@ -4,6 +4,7 @@
 import argparse
 import re
 import shelve
+from string import maketrans
 
 import ankigreekutil as anki
 
@@ -499,7 +500,8 @@ def all_words(word):
         if word:
             output.append(word)
     return output
-
+def strip_macrons(word):
+    return word.replace("ᾱ", "α").replace("ῑ", "ι").replace("ῡ", "υ").replace("̄", "")
 
 def make_cards(word, tenses):
     cards = []
@@ -593,7 +595,7 @@ def output_cards(tenses=None):
         reversefile = REVERSEFILE + '.' + tenses + '.txt'
     with open(verbfile, 'w') as ff:
         for kk, vv in card_mm.iteritems():
-            ff.write(kk + '; ' + '<br>'.join(vv) + "\n")
+            ff.write(strip_macrons(kk) + '; '+ kk + '<br><br>' + '<br>'.join(vv) + "\n")
     with open(reversefile, 'w') as ff:
         for kk, vv in card_rr.iteritems():
             ff.write(kk + '; ' + '<br>'.join(vv) + "\n")
