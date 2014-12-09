@@ -546,14 +546,14 @@ def make_cards(word, tenses):
                                                                         cc,
                                                                         gg)
                                         cards.append([form,
-                                                      answer.encode('utf-8')])
+                                                      answer.encode('utf-8'),word[vv][mm][tt][nn][cc][gg]])
                 continue
             if mm == 'infinitive':
                 for tt in mytenses:
                     if word[vv][mm].get(tt):
                         for form in all_words(word[vv][mm][tt]):
                             form = word[vv][mm][tt]
-                            cards.append([form, make_answer(vv, mm, tt)])
+                            cards.append([form, make_answer(vv, mm, tt),word[vv][mm][tt]])
                 continue
             # for normal moods
             for tt in mytenses:
@@ -561,7 +561,7 @@ def make_cards(word, tenses):
                     continue
                 for pp in PERSON:
                     for form in all_words(word[vv][mm][tt][pp]):
-                        cards.append([form, make_answer(vv, mm, tt, pp)])
+                        cards.append([form, make_answer(vv, mm, tt, pp),word[vv][mm][tt][pp]])
     return cards
 
 
@@ -570,10 +570,12 @@ def output_cards(tenses=None):
     for word in WORDS:
         cards.extend(make_cards(SHELF[word], tenses))
     card_mm = {}
+    card_ww = {}
     card_rr = {}
     for card in cards:
         if not card_mm.get(card[0]):
             card_mm[card[0]] = []
+            card_ww[card[0]] = ""
         if not card_rr.get(card[1]):
             card_rr[card[1]] = []
         unique = True
@@ -582,6 +584,8 @@ def output_cards(tenses=None):
                 unique = False
         if unique:
             card_mm[card[0]].append(card[1])
+            if len(card[2]) > len(card_ww[card[0]]):
+              card_ww[card[0]] = card[2]
         unique = True
         for cc in card_rr[card[1]]:
             if card[0] == cc:
@@ -595,7 +599,7 @@ def output_cards(tenses=None):
         reversefile = REVERSEFILE + '.' + tenses + '.txt'
     with open(verbfile, 'w') as ff:
         for kk, vv in card_mm.iteritems():
-            ff.write(strip_macrons(kk) + '; '+ kk + '<br><br>' + '<br>'.join(vv) + "\n")
+            ff.write(strip_macrons(kk) + '; '+ card_ww[kk] + '<br><br>' + '<br>'.join(vv) + "\n")
     with open(reversefile, 'w') as ff:
         for kk, vv in card_rr.iteritems():
             ff.write(kk + '; ' + '<br>'.join(vv) + "\n")

@@ -2,7 +2,7 @@
 ἐλύθητον; ἐλύθητον<br><br>ai pas d2
 ἐλέλυντο; ἐλέλυντο<br><br>plupi m-p p3
 λελυκυίαιν; λελυκυίαιν<br><br>per  fdg
-λελύσῃ; λελύ̄σῃ<br><br>futpi pas s2
+λελύσῃ; λελύ̄σῃ / λελύ̄σει<br><br>futpi pas s2
 λυθείη; λυθείη<br><br>ao pas s3
 λυόμεθα; λῡόμεθα<br><br>pi m-p p1
 λυώμεθα; λῡώμεθα<br><br>ps m-p p1
@@ -12,39 +12,39 @@
 λελύσθω; λελύσθω<br><br>perimp m-p s3
 λυθήσεσθε; λυθήσεσθε<br><br>fi pas p2
 ἐλέλυσθον; ἐλέλυσθον<br><br>plupi m-p d2
-λελύκοιμι; λελύκοιμι<br><br>pero  s1
+λελύκοιμι; λελυκὼς εἴην / λελύκοιμι / λελύκοίην<br><br>pero  s1
 λυσαμένοις; λῡσαμένοις<br><br>a mid mpd<br>a mid npd
 λυέτων; λῡέτων<br><br>pimp  d3
 λελύσοιο; λελύ̄σοιο<br><br>futpo pas s2
 ἐλέλυτο; ἐλέλυτο<br><br>plupi m-p s3
-λελύκῃς; λελύκῃς<br><br>pers  s2
+λελύκῃς; λελυκὼς ᾖς / λελύκῃς<br><br>pers  s2
 λυθησομένην; λυθησομένην<br><br>f pas fsa
 λύσαντες; λύ̄σαντες<br><br>a  mpn
 λύοις; λύ̄οις<br><br>po  s2
 λελυμέναιν; λελυμέναιν<br><br>per m-p fdg
-λυθεῖτε; λυθεῖτε<br><br>ao pas p2
+λυθεῖτε; λυθεῖτε / λυθείητε<br><br>ao pas p2
 λύσητον; λύ̄σητον<br><br>as  d2<br>as  d3
 λυσομένην; λῡσομένην<br><br>f mid fsa
 λυόντοιν; λῡόντοιν<br><br>p  mdg<br>p  ndg
-λελυκότες ὦσι; λελυκότες ὦσι<br><br>pers  p3
+λελυκότες ὦσι; λελυκότες ὦσι / λελύκωσι<br><br>pers  p3
 λυθεισῶν; λυθεισῶν<br><br>a pas fpg
 λυθέντοιν; λυθέντοιν<br><br>a pas mdg<br>a pas ndg
 λύσαντας; λύ̄σαντας<br><br>a  mpa
-λελυκότες ὦμεν; λελυκότες ὦμεν<br><br>pers  p1
+λελυκότες ὦμεν; λελυκότες ὦμεν / λελύκωμεν<br><br>pers  p1
 λυθήσεται; λυθήσεται<br><br>fi pas s3
 λύσοις; λύ̄σοις<br><br>fo  s2
 ἐλύθητε; ἐλύθητε<br><br>ai pas p2
 λύσεσθε; λύ̄σεσθε<br><br>fi mid p2
 λυσόντοιν; λῡσόντοιν<br><br>f  mdg<br>f  ndg
 λελύσονται; λελύ̄σονται<br><br>futpi pas p3
-λύσαιεν; λύ̄σαιεν<br><br>ao  p3
+λύσαιεν; λύ̄σαιεν / λύ̄σειαν<br><br>ao  p3
 ἐλύθην; ἐλύθην<br><br>ai pas s1
 λυσούσαιν; λῡσούσαιν<br><br>f  fdg
 λύσαιτον; λύ̄σαιτον<br><br>ao  d2
 λελυσομένους; λελῡσομένους<br><br>futp pas mpa
 λύσασα; λύ̄σᾱσα<br><br>a  fsn<br>a  fsv
-λελύκωμεν; λελύκωμεν<br><br>pers  p1
-λύσασι; λύ̄σᾱσι<br><br>a  mpd<br>a  npd
+λελύκωμεν; λελυκότες ὦμεν / λελύκωμεν<br><br>pers  p1
+λύσασι; λύ̄σᾱσι(ν)<br><br>a  mpd<br>a  npd
 λύσοισθον; λύ̄σοισθον<br><br>fo mid d2
 λύσων; λύ̄σων<br><br>f  msn<br>f  msv
 λυσάμεναι; λῡσάμεναι<br><br>a mid fpn
@@ -52,27 +52,27 @@
 λυσαίμεθα; λῡσαίμεθα<br><br>ao mid p1
 λελυσομένην; λελῡσομένην<br><br>futp pas fsa
 λυσομένω; λῡσομένω<br><br>f mid mdn<br>f mid ndn
-λύσει; λύ̄σει<br><br>fi  s3<br>fi mid s2
+λύσει; λύ̄σῃ / λύ̄σει<br><br>fi  s3<br>fi mid s2
 λυθησομένοιν; λυθησομένοιν<br><br>f pas mdg<br>f pas ndg
-λελυκότες εἶεν; λελυκότες εἶεν<br><br>pero  p3
+λελυκότες εἶεν; λελυκότες εἴησαν / λελυκότες εἶεν / λελύκοιεν<br><br>pero  p3
 λυσομένοιν; λῡσομένοιν<br><br>f mid mdg<br>f mid ndg
 λυθησομέναιν; λυθησομέναιν<br><br>f pas fdg
 λελυκότων; λελυκότων<br><br>per  mpg<br>per  npg
 λελυμένω; λελυμένω<br><br>per m-p mdn<br>per m-p ndn
-λελυκότε εἴητον; λελυκότε εἴητον<br><br>pero  d2
+λελυκότε εἴητον; λελυκότε εἴητον / λελυκότε εἶτον / λελύκοιτον<br><br>pero  d2
 λυσαμένων; λῡσαμένων<br><br>a mid mpg<br>a mid fpg<br>a mid npg
 λελυμένων; λελυμένων<br><br>per m-p mpg<br>per m-p fpg<br>per m-p npg
-λύει; λύ̄ει<br><br>pi  s3<br>pi m-p s2
-λελυκὼς εἴης; λελυκὼς εἴης<br><br>pero  s2
-λελυκὼς ἔστω; λελυκὼς ἔστω<br><br>perimp  s3
-λελύκοιτε; λελύκοιτε<br><br>pero  p2
-λελυκὼς ὦ; λελυκὼς ὦ<br><br>pers  s1
+λύει; λύ̄ῃ / λύ̄ει<br><br>pi  s3<br>pi m-p s2
+λελυκὼς εἴης; λελυκὼς εἴης / λελύκοις / λελύκοίης<br><br>pero  s2
+λελυκὼς ἔστω; λελυκὼς ἔστω / λελυκέτω<br><br>perimp  s3
+λελύκοιτε; λελυκότες εἴητε / λελυκότες εἶτε / λελύκοιτε<br><br>pero  p2
+λελυκὼς ὦ; λελυκὼς ὦ / λελύκω<br><br>pers  s1
 ἔλυον; ἔλῡον<br><br>ii  s1<br>ii  p3
 λυσαμένου; λῡσαμένου<br><br>a mid msg<br>a mid nsg
-λελύκοιμεν; λελύκοιμεν<br><br>pero  p1
+λελύκοιμεν; λελυκότες εἴημεν / λελυκότες εἶμεν / λελύκοιμεν<br><br>pero  p1
 λύοισθε; λύ̄οισθε<br><br>po m-p p2
 λυσάσθω; λῡσάσθω<br><br>aimp mid s3
-λελύκοις; λελύκοις<br><br>pero  s2
+λελύκοις; λελυκὼς εἴης / λελύκοις / λελύκοίης<br><br>pero  s2
 λύσοιντο; λύ̄σοιντο<br><br>fo mid p3
 ἐλύσασθε; ἐλύ̄σασθε<br><br>ai mid p2
 λελυσομένα; λελῡσομένᾱ<br><br>futp pas fdn
@@ -81,18 +81,18 @@
 λυσομένα; λῡσομένᾱ<br><br>f mid fdn
 ἐλελύκεσαν; ἐλελύκεσαν<br><br>plupi  p3
 λύοιτο; λύ̄οιτο<br><br>po m-p s3
-λελυκότε ἦτον; λελυκότε ἦτον<br><br>pers  d2<br>pers  d3
+λελυκότε ἦτον; λελυκότε ἦτον / λελύκητον<br><br>pers  d2<br>pers  d3
 λυσαμένω; λῡσαμένω<br><br>a mid mdn<br>a mid ndn
 λυθέντων; λυθέντων<br><br>a pas mpg<br>a pas npg<br>aimp pas p3
 λυοίτην; λῡοίτην<br><br>po  d3
 λυσαμέναις; λῡσαμέναις<br><br>a mid fpd
-λελυμένω εἴητον; λελυμένω εἴητον<br><br>pero m-p d2
+λελυμένω εἴητον; λελυμένω εἴητον / λελυμένω εἶτον<br><br>pero m-p d2
 λυθησόμενος; λυθησόμενος<br><br>f pas msn
 λύων; λύ̄ων<br><br>p  msn<br>p  msv
 λύσοντες; λύ̄σοντες<br><br>f  mpn
 λυθήτω; λυθήτω<br><br>aimp pas s3
 λελύσοιντο; λελύ̄σοιντο<br><br>futpo pas p3
-λυθεῖεν; λυθεῖεν<br><br>ao pas p3
+λυθεῖεν; λυθεῖεν / λυθείησαν<br><br>ao pas p3
 λελυκέναι; λελυκέναι<br><br>perinf 
 λελυμένος ᾖς; λελυμένος ᾖς<br><br>pers m-p s2
 λελυσομένω; λελῡσομένω<br><br>futp pas mdn<br>futp pas ndn
@@ -116,20 +116,20 @@
 λύησθε; λύ̄ησθε<br><br>ps m-p p2
 λυσαίσθην; λῡσαίσθην<br><br>ao mid d3
 ἐλύσατο; ἐλύ̄σατο<br><br>ai mid s3
-λύσῃ; λύ̄σῃ<br><br>as  s3<br>fi mid s2<br>as mid s2
-λελύσει; λελύ̄σει<br><br>futpi pas s2
+λύσῃ; λύ̄σῃ / λύ̄σει<br><br>as  s3<br>fi mid s2<br>as mid s2
+λελύσει; λελύ̄σῃ / λελύ̄σει<br><br>futpi pas s2
 ἐλύσασθον; ἐλύ̄σασθον<br><br>ai mid d2
 λύωσι; λύ̄ωσι<br><br>ps  p3
-ἐλελύκειν; ἐλελύκειν<br><br>plupi  s3
+ἐλελύκειν; ἐλελύκει(ν)<br><br>plupi  s3
 λύου; λύ̄ου<br><br>pimp m-p s2
 λύσεσθαι; λύ̄σεσθαι<br><br>finf mid
-λελυκότε ἔστον; λελυκότε ἔστον<br><br>perimp  d2
+λελυκότε ἔστον; λελυκότε ἔστον / λελύκετον<br><br>perimp  d2
 λέλυκας; λέλυκας<br><br>peri  s2
-λελύκωσι; λελύκωσι<br><br>pers  p3
+λελύκωσι; λελυκότες ὦσι / λελύκωσι<br><br>pers  p3
 λύσασθαι; λύ̄σασθαι<br><br>ainf mid
 λελυκός; λελυκός<br><br>per  nsn
 λύσητε; λύ̄σητε<br><br>as  p2
-λελυκότε εἰήτην; λελυκότε εἰήτην<br><br>pero  d3
+λελυκότε εἰήτην; λελυκότε εἰήτην / λελυκότε εἴτην / λελυκοίτην<br><br>pero  d3
 ἐλύου; ἐλύ̄ου<br><br>ii m-p s2
 λυσομένη; λῡσομένη<br><br>f mid fsn<br>f mid fsv
 λελυκότες; λελυκότες<br><br>per  mpn
@@ -144,14 +144,14 @@
 λυοίσθην; λῡοίσθην<br><br>po m-p d3
 ἐλυθήτην; ἐλυθήτην<br><br>ai pas d3
 ἐλύσω; ἐλύ̄σω<br><br>ai mid s2
-λελυμένοι εἶτε; λελυμένοι εἶτε<br><br>pero m-p p2
+λελυμένοι εἶτε; λελυμένοι εἴητε / λελυμένοι εἶτε<br><br>pero m-p p2
 λελυκυῖαι; λελυκυῖαι<br><br>per  fpn
 λυθησομένα; λυθησομένᾱ<br><br>f pas fdn
 λελυκυῖαν; λελυκυῖαν<br><br>per  fsa
 ἐλέλυσο; ἐλέλυσο<br><br>plupi m-p s2
 λυθῆτε; λυθῆτε<br><br>as pas p2
-λυθεῖτον; λυθεῖτον<br><br>ao pas d2
-λύσαις; λύ̄σαις<br><br>ao  s2
+λυθεῖτον; λυθεῖτον / λυθείητον<br><br>ao pas d2
+λύσαις; λύ̄σαις / λύ̄σειας<br><br>ao  s2
 λυόμενε; λῡόμενε<br><br>p m-p msv
 λελυκυίαις; λελυκυίαις<br><br>per  fpd
 λυσομένους; λῡσομένους<br><br>f mid mpa
@@ -170,25 +170,25 @@
 λυσάντοιν; λῡσάντοιν<br><br>a  mdg<br>a  ndg
 λύῃς; λύ̄ῃς<br><br>ps  s2
 λελυσόμεναι; λελῡσόμεναι<br><br>futp pas fpn
-λυθειήτην; λυθειήτην<br><br>ao pas d3
+λυθειήτην; λυθείτην / λυθειήτην<br><br>ao pas d3
 λυθείην; λυθείην<br><br>ao pas s1
 λελυμένην; λελυμένην<br><br>per m-p fsa
 λύωνται; λύ̄ωνται<br><br>ps m-p p3
 λελύσοισθον; λελύ̄σοισθον<br><br>futpo pas d2
 λύουσα; λύ̄ουσα<br><br>p  fsn<br>p  fsv
-λύουσι; λύ̄ουσι<br><br>p  mpd<br>p  npd<br>pi  p3
+λύουσι; λύ̄ουσι(ν)<br><br>p  mpd<br>p  npd<br>pi  p3
 λελυμένοι; λελυμένοι<br><br>per m-p mpn
 λελυμένον; λελυμένον<br><br>per m-p nsn<br>per m-p msa
 λυθέν; λυθέν<br><br>a pas nsn
-λύῃ; λύ̄ῃ<br><br>ps  s3<br>pi m-p s2<br>ps m-p s2
+λύῃ; λύ̄ῃ / λύ̄ει<br><br>ps  s3<br>pi m-p s2<br>ps m-p s2
 λύσοιο; λύ̄σοιο<br><br>fo mid s2
 λελυκότας; λελυκότας<br><br>per  mpa
-λυθείητον; λυθείητον<br><br>ao pas d2
+λυθείητον; λυθεῖτον / λυθείητον<br><br>ao pas d2
 λελυκυία; λελυκυίᾱ<br><br>per  fdn
-λυθείτην; λυθείτην<br><br>ao pas d3
+λυθείτην; λυθείτην / λυθειήτην<br><br>ao pas d3
 λύετον; λύ̄ετον<br><br>pi  d2<br>pi  d3<br>pimp  d2
-λελυμένοι εἴητε; λελυμένοι εἴητε<br><br>pero m-p p2
-λελυκότες εἴητε; λελυκότες εἴητε<br><br>pero  p2
+λελυμένοι εἴητε; λελυμένοι εἴητε / λελυμένοι εἶτε<br><br>pero m-p p2
+λελυκότες εἴητε; λελυκότες εἴητε / λελυκότες εἶτε / λελύκοιτε<br><br>pero  p2
 ἐλυσάσθην; ἐλῡσάσθην<br><br>ai mid d3
 λελυμένοις; λελυμένοις<br><br>per m-p mpd<br>per m-p npd
 λυομέναιν; λῡομέναιν<br><br>p m-p fdg
@@ -196,14 +196,14 @@
 λελυσόμεθα; λελῡσόμεθα<br><br>futpi pas p1
 λύσετον; λύ̄σετον<br><br>fi  d2<br>fi  d3
 λυόμενος; λῡόμενος<br><br>p m-p msn
-λύσειαν; λύ̄σειαν<br><br>ao  p3
+λύσειαν; λύ̄σαιεν / λύ̄σειαν<br><br>ao  p3
 λύσοντος; λύ̄σοντος<br><br>f  msg<br>f  nsg
 λύουσαι; λύ̄ουσαι<br><br>p  fpn
 λύουσαν; λύ̄ουσαν<br><br>p  fsa
 λύεις; λύ̄εις<br><br>pi  s2
 λυσαίμην; λῡσαίμην<br><br>ao mid s1
 λύωμαι; λύ̄ωμαι<br><br>ps m-p s1
-λύσειε; λύ̄σειε<br><br>ao  s3
+λύσειε; λύ̄σαι / λύ̄σειε<br><br>ao  s3
 λύοντε; λύ̄οντε<br><br>p  mdn<br>p  ndn
 λύσομαι; λύ̄σομαι<br><br>fi mid s1
 λυόντων; λῡόντων<br><br>p  mpg<br>p  npg<br>pimp  p3
@@ -213,22 +213,22 @@
 λύοντι; λύ̄οντι<br><br>p  msd<br>p  nsd
 λύσαιτε; λύ̄σαιτε<br><br>ao  p2
 ἐλυέσθην; ἐλῡέσθην<br><br>ii m-p d3
-λελύκω; λελύκω<br><br>pers  s1
+λελύκω; λελυκὼς ὦ / λελύκω<br><br>pers  s1
 ἐλυσάτην; ἐλῡσάτην<br><br>ai  d3
 λελυσομένῃ; λελῡσομένῃ<br><br>futp pas fsd
-λελυμένω εἶτον; λελυμένω εἶτον<br><br>pero m-p d2
+λελυμένω εἶτον; λελυμένω εἴητον / λελυμένω εἶτον<br><br>pero m-p d2
 ἐλύθησαν; ἐλύθησαν<br><br>ai pas p3
 ἐλέλυσθε; ἐλέλυσθε<br><br>plupi m-p p2
 λελυσομένοις; λελῡσομένοις<br><br>futp pas mpd<br>futp pas npd
 λυσάσαιν; λῡσά̄σαιν<br><br>a  fdg
-λελυμένοι εἴημεν; λελυμένοι εἴημεν<br><br>pero m-p p1
+λελυμένοι εἴημεν; λελυμένοι εἴημεν / λελυμένοι εἶμεν<br><br>pero m-p p1
 λύσαιντο; λύ̄σαιντο<br><br>ao mid p3
 λυσομένων; λῡσομένων<br><br>f mid mpg<br>f mid fpg<br>f mid npg
 λυομένας; λῡομένᾱς<br><br>p m-p fpa
 λυθέντες; λυθέντες<br><br>a pas mpn
 λύσηται; λύ̄σηται<br><br>as mid s3
 λελυκότε; λελυκότε<br><br>per  mdn<br>per  ndn
-λελυκὼς εἴην; λελυκὼς εἴην<br><br>pero  s1
+λελυκὼς εἴην; λελυκὼς εἴην / λελύκοιμι / λελύκοίην<br><br>pero  s1
 λελυκότα; λελυκότα<br><br>per  msa<br>per  npn
 λελυκότι; λελυκότι<br><br>per  msd<br>per  nsd
 λελυσομένῳ; λελῡσομένῳ<br><br>futp pas msd<br>futp pas nsd
@@ -238,26 +238,26 @@
 λυσομένου; λῡσομένου<br><br>f mid msg<br>f mid nsg
 ἐλελύκετε; ἐλελύκετε<br><br>plupi  p2
 λυσόμεθα; λῡσόμεθα<br><br>fi mid p1
-λελυκότες εἶμεν; λελυκότες εἶμεν<br><br>pero  p1
+λελυκότες εἶμεν; λελυκότες εἴημεν / λελυκότες εἶμεν / λελύκοιμεν<br><br>pero  p1
 λυσομένης; λῡσομένης<br><br>f mid fsg
 λύσοντι; λύ̄σοντι<br><br>f  msd<br>f  nsd
 λυθήσοιτο; λυθήσοιτο<br><br>fo pas s3
 λύσοιεν; λύ̄σοιεν<br><br>fo  p3
 λύσοντα; λύ̄σοντα<br><br>f  msa<br>f  npn
 λυθησομένου; λυθησομένου<br><br>f pas msg<br>f pas nsg
-λελυκότες ἐστέ; λελυκότες ἐστέ<br><br>perimp  p2
+λελυκότες ἐστέ; λελυκότες ἐστέ / λελύκετε<br><br>perimp  p2
 λυσόμενε; λῡσόμενε<br><br>f mid msv
 λυσαμένοιν; λῡσαμένοιν<br><br>a mid mdg<br>a mid ndg
 λυθησομένης; λυθησομένης<br><br>f pas fsg
 λυθησοίμην; λυθησοίμην<br><br>fo pas s1
-λελυκέτω; λελυκέτω<br><br>perimp  s3
-λελυκότε εἴτην; λελυκότε εἴτην<br><br>pero  d3
+λελυκέτω; λελυκὼς ἔστω / λελυκέτω<br><br>perimp  s3
+λελυκότε εἴτην; λελυκότε εἰήτην / λελυκότε εἴτην / λελυκοίτην<br><br>pero  d3
 λυθῶμεν; λυθῶμεν<br><br>as pas p1
 λύθητι; λύθητι<br><br>aimp pas s2
 λύσαιτο; λύ̄σαιτο<br><br>ao mid s3
 λύωμεν; λύ̄ωμεν<br><br>ps  p1
 λελυσομένας; λελῡσομένᾱς<br><br>futp pas fpa
-λελυκοίτην; λελυκοίτην<br><br>pero  d3
+λελυκοίτην; λελυκότε εἰήτην / λελυκότε εἴτην / λελυκοίτην<br><br>pero  d3
 λυσομένας; λῡσομένᾱς<br><br>f mid fpa
 λυθείσαιν; λυθείσαιν<br><br>a pas fdg
 λύθητε; λύθητε<br><br>aimp pas p2
@@ -280,7 +280,7 @@
 λυθέντας; λυθέντας<br><br>a pas mpa
 λελυσομέναις; λελῡσομέναις<br><br>futp pas fpd
 λυσασῶν; λῡσᾱσῶν<br><br>a  fpg
-λελύκοίην; λελύκοίην<br><br>pero  s1
+λελύκοίην; λελυκὼς εἴην / λελύκοιμι / λελύκοίην<br><br>pero  s1
 λύεσθον; λύ̄εσθον<br><br>pi m-p d2<br>pi m-p d3<br>pimp m-p d2
 λύσωμαι; λύ̄σωμαι<br><br>as mid s1
 λύσαισθε; λύ̄σαισθε<br><br>ao mid p2
@@ -295,12 +295,12 @@
 λῦον; λῦον<br><br>p  nsn
 ἐλύοντο; ἐλύ̄οντο<br><br>ii m-p p3
 λυσαμένας; λῡσαμένᾱς<br><br>a mid fpa
-λελυμένοι εἴησαν; λελυμένοι εἴησαν<br><br>pero m-p p3
+λελυμένοι εἴησαν; λελυμένοι εἴησαν / λελυμένοι εἶεν<br><br>pero m-p p3
 λυθείης; λυθείης<br><br>ao pas s2
 λελυμένης; λελυμένης<br><br>per m-p fsg
 λύοντες; λύ̄οντες<br><br>p  mpn
 λελυμένος ὦ; λελυμένος ὦ<br><br>pers m-p s1
-λύουσιν; λύ̄ουσιν<br><br>p  mpd<br>p  npd
+λύουσιν; λύ̄ουσι(ν)<br><br>p  mpd<br>p  npd
 λυσάτων; λῡσάτων<br><br>aimp  d3
 λυσώμεθα; λῡσώμεθα<br><br>as mid p1
 λυθείσῃ; λυθείσῃ<br><br>a pas fsd
@@ -308,7 +308,7 @@
 ἐλύθημεν; ἐλύθημεν<br><br>ai pas p1
 λυομένω; λῡομένω<br><br>p m-p mdn<br>p m-p ndn
 λυόμενα; λῡόμενα<br><br>p m-p npn
-λελύκετον; λελύκετον<br><br>perimp  d2
+λελύκετον; λελυκότε ἔστον / λελύκετον<br><br>perimp  d2
 ἐλύεσθον; ἐλύ̄εσθον<br><br>ii m-p d2
 λυούσῃ; λῡούσῃ<br><br>p  fsd
 λύσωμεν; λύ̄σωμεν<br><br>as  p1
@@ -323,17 +323,17 @@
 ἐλελύκης; ἐλελύκης<br><br>plupi  s2
 λύσασαι; λύ̄σᾱσαι<br><br>a  fpn
 λυσόμενα; λῡσόμενα<br><br>f mid npn
-λελυκόσι; λελυκόσι<br><br>per  mpd<br>per  npd
+λελυκόσι; λελυκόσι(ν)<br><br>per  mpd<br>per  npd
 λύσασαν; λύ̄σᾱσαν<br><br>a  fsa
 λυσαμένη; λῡσαμένη<br><br>a mid fsn<br>a mid fsv
 λελυμένοι ἦτε; λελυμένοι ἦτε<br><br>pers m-p p2
-λύσουσι; λύ̄σουσι<br><br>f  mpd<br>f  npd<br>fi  p3
+λύσουσι; λύ̄σουσι(ν)<br><br>f  mpd<br>f  npd<br>fi  p3
 λύοιμεν; λύ̄οιμεν<br><br>po  p1
 λυομένων; λῡομένων<br><br>p m-p mpg<br>p m-p fpg<br>p m-p npg
-λύσουσιν; λύ̄σουσιν<br><br>f  mpd<br>f  npd
+λύσουσιν; λύ̄σουσι(ν)<br><br>f  mpd<br>f  npd
 λύσουσα; λύ̄σουσα<br><br>f  fsn<br>f  fsv
 λύσῃς; λύ̄σῃς<br><br>as  s2
-λύσασιν; λύ̄σᾱσιν<br><br>a  mpd<br>a  npd
+λύσασιν; λύ̄σᾱσι(ν)<br><br>a  mpd<br>a  npd
 λύσαντος; λύ̄σαντος<br><br>a  msg<br>a  nsg
 λυσομένῃ; λῡσομένῃ<br><br>f mid fsd
 λελυσομένων; λελῡσομένων<br><br>futp pas mpg<br>futp pas fpg<br>futp pas npg
@@ -348,11 +348,11 @@
 λυθήσεσθαι; λυθήσεσθαι<br><br>finf pas
 λύσουσαι; λύ̄σουσαι<br><br>f  fpn
 λυομένα; λῡομένᾱ<br><br>p m-p fdn
-λύσαι; λύ̄σαι<br><br>ao  s3
+λύσαι; λύ̄σαι / λύ̄σειε<br><br>ao  s3
 λύσω; λύ̄σω<br><br>fi  s1<br>as  s1
 λυομένης; λῡομένης<br><br>p m-p fsg
 λυσάμενος; λῡσάμενος<br><br>a mid msn
-λελυκότες εἴησαν; λελυκότες εἴησαν<br><br>pero  p3
+λελυκότες εἴησαν; λελυκότες εἴησαν / λελυκότες εἶεν / λελύκοιεν<br><br>pero  p3
 ἐλύεσθε; ἐλύ̄εσθε<br><br>ii m-p p2
 λυομένου; λῡομένου<br><br>p m-p msg<br>p m-p nsg
 λελυμένους; λελυμένους<br><br>per m-p mpa
@@ -368,16 +368,16 @@
 λύσατε; λύ̄σατε<br><br>aimp  p2
 λυσαμένους; λῡσαμένους<br><br>a mid mpa
 λυούσης; λῡούσης<br><br>p  fsg
-λελυκότε ἔστων; λελυκότε ἔστων<br><br>perimp  d3
+λελυκότε ἔστων; λελυκότε ἔστων / λελυκέτων<br><br>perimp  d3
 λυθησομένας; λυθησομένᾱς<br><br>f pas fpa
-λελύκοιεν; λελύκοιεν<br><br>pero  p3
+λελύκοιεν; λελυκότες εἴησαν / λελυκότες εἶεν / λελύκοιεν<br><br>pero  p3
 λύετε; λύ̄ετε<br><br>pi  p2<br>pimp  p2
 λυθησοίσθην; λυθησοίσθην<br><br>fo pas d3
 λυθησόμενα; λυθησόμενα<br><br>f pas npn
 λελύκατον; λελύκατον<br><br>peri  d2<br>peri  d3
 λυθησόμενε; λυθησόμενε<br><br>f pas msv
 λυσούσαις; λῡσούσαις<br><br>f  fpd
-λελυκόσιν; λελυκόσιν<br><br>per  mpd<br>per  npd
+λελυκόσιν; λελυκόσι(ν)<br><br>per  mpd<br>per  npd
 λυσομέναιν; λῡσομέναιν<br><br>f mid fdg
 λελυσομέναιν; λελῡσομέναιν<br><br>futp pas fdg
 λυθησόμεναι; λυθησόμεναι<br><br>f pas fpn
@@ -387,15 +387,15 @@
 λυούσαις; λῡούσαις<br><br>p  fpd
 λύειν; λύ̄ειν<br><br>pinf 
 ἐλύθης; ἐλύθης<br><br>ai pas s2
-λελύκητε; λελύκητε<br><br>pers  p2
-λύσειας; λύ̄σειας<br><br>ao  s2
-λυθήσῃ; λυθήσῃ<br><br>fi pas s2
+λελύκητε; λελυκότες ἦτε / λελύκητε<br><br>pers  p2
+λύσειας; λύ̄σαις / λύ̄σειας<br><br>ao  s2
+λυθήσῃ; λυθήσῃ / λυθήσει<br><br>fi pas s2
 λελυσοίμην; λελῡσοίμην<br><br>futpo pas s1
 λελυμένοιν; λελυμένοιν<br><br>per m-p mdg<br>per m-p ndg
 λύσοιμεν; λύ̄σοιμεν<br><br>fo  p1
 λελυμένη; λελυμένη<br><br>per m-p fsn<br>per m-p fsv
 λελυμένε; λελυμένε<br><br>per m-p msv
-λελύκῃ; λελύκῃ<br><br>pers  s3
+λελύκῃ; λελυκὼς ᾖ / λελύκῃ<br><br>pers  s3
 λελυμένα; λελυμένα<br><br>per m-p npn
 λυσάσης; λῡσά̄σης<br><br>a  fsg
 λελυσόμενον; λελῡσόμενον<br><br>futp pas nsn<br>futp pas msa
@@ -403,9 +403,9 @@
 λελυμένος εἴης; λελυμένος εἴης<br><br>pero m-p s2
 λέλυκα; λέλυκα<br><br>peri  s1
 λυθεῖσαι; λυθεῖσαι<br><br>a pas fpn
-λέλυκε; λέλυκε<br><br>peri  s3<br>perimp  s2
+λέλυκε; λελυκὼς ἴσθι / λέλυκε<br><br>peri  s3<br>perimp  s2
 λυθεῖσαν; λυθεῖσαν<br><br>a pas fsa
-λυθεῖσιν; λυθεῖσιν<br><br>a pas mpd<br>a pas npd
+λυθεῖσιν; λυθεῖσι(ν)<br><br>a pas mpd<br>a pas npd
 λυομένους; λῡομένους<br><br>p m-p mpa
 λῦσον; λῦσον<br><br>f  nsn<br>aimp  s2
 λυθησομένῳ; λυθησομένῳ<br><br>f pas msd<br>f pas nsd
@@ -420,16 +420,16 @@
 ἐλυόμην; ἐλῡόμην<br><br>ii m-p s1
 λελυμένοι ὦμεν; λελυμένοι ὦμεν<br><br>pers m-p p1
 λελύσεσθον; λελύ̄σεσθον<br><br>futpi pas d2<br>futpi pas d3
-ἐλελύκει; ἐλελύκει<br><br>plupi  s3
+ἐλελύκει; ἐλελύκει(ν)<br><br>plupi  s3
 λῦε; λῦε<br><br>pimp  s2
-λελυμένοι εἶμεν; λελυμένοι εἶμεν<br><br>pero m-p p1
-λελυκὼς εἴη; λελυκὼς εἴη<br><br>pero  s3
+λελυμένοι εἶμεν; λελυμένοι εἴημεν / λελυμένοι εἶμεν<br><br>pero m-p p1
+λελυκὼς εἴη; λελυκὼς εἴη / λελύκοι / λελύκοίη<br><br>pero  s3
 λύοι; λύ̄οι<br><br>po  s3
 λελυμένα; λελυμένᾱ<br><br>per m-p fdn
 λύονται; λύ̄ονται<br><br>pi m-p p3
 λυθῶ; λυθῶ<br><br>as pas s1
-λελυκὼς ἴσθι; λελυκὼς ἴσθι<br><br>perimp  s2
-λυθεῖσι; λυθεῖσι<br><br>a pas mpd<br>a pas npd
+λελυκὼς ἴσθι; λελυκὼς ἴσθι / λέλυκε<br><br>perimp  s2
+λυθεῖσι; λυθεῖσι(ν)<br><br>a pas mpd<br>a pas npd
 λύσεσθον; λύ̄σεσθον<br><br>fi mid d2<br>fi mid d3
 λύεται; λύ̄εται<br><br>pi m-p s3
 λέλυσθε; λέλυσθε<br><br>peri m-p p2<br>perimp m-p p2
@@ -447,40 +447,40 @@
 λυθῇ; λυθῇ<br><br>as pas s3
 λυθέντος; λυθέντος<br><br>a pas msg<br>a pas nsg
 λυσάντων; λῡσάντων<br><br>a  mpg<br>a  npg<br>aimp  p3
-λελυκότες εἶτε; λελυκότες εἶτε<br><br>pero  p2
+λελυκότες εἶτε; λελυκότες εἴητε / λελυκότες εἶτε / λελύκοιτε<br><br>pero  p2
 λύοιο; λύ̄οιο<br><br>po m-p s2
 λύσεται; λύ̄σεται<br><br>fi mid s3
 λυθῆτον; λυθῆτον<br><br>as pas d2<br>as pas d3
-λελυκέτων; λελυκέτων<br><br>perimp  d3
+λελυκέτων; λελυκότε ἔστων / λελυκέτων<br><br>perimp  d3
 λῦσαν; λῦσαν<br><br>a  nsn
 λύσωνται; λύ̄σωνται<br><br>as mid p3
 λελύκατε; λελύκατε<br><br>peri  p2
 λέλυμαι; λέλυμαι<br><br>peri m-p s1
 ἔλυσε; ἔλῡσε<br><br>ai  s3
 ἔλυσα; ἔλῡσα<br><br>ai  s1
-λελυκὼς ᾖς; λελυκὼς ᾖς<br><br>pers  s2
+λελυκὼς ᾖς; λελυκὼς ᾖς / λελύκῃς<br><br>pers  s2
 ἐλελύκετον; ἐλελύκετον<br><br>plupi  d2
 λελυκότοιν; λελυκότοιν<br><br>per  mdg<br>per  ndg
-λελυκότες εἴημεν; λελυκότες εἴημεν<br><br>pero  p1
+λελυκότες εἴημεν; λελυκότες εἴημεν / λελυκότες εἶμεν / λελύκοιμεν<br><br>pero  p1
 ἔλυες; ἔλῡες<br><br>ii  s2
-λελύκοίης; λελύκοίης<br><br>pero  s2
+λελύκοίης; λελυκὼς εἴης / λελύκοις / λελύκοίης<br><br>pero  s2
 λυθησομέναις; λυθησομέναις<br><br>f pas fpd
 λυσοίτην; λῡσοίτην<br><br>fo  d3
 λύοιεν; λύ̄οιεν<br><br>po  p3
-λελύκοιτον; λελύκοιτον<br><br>pero  d2
+λελύκοιτον; λελυκότε εἴητον / λελυκότε εἶτον / λελύκοιτον<br><br>pero  d2
 λυσομένοις; λῡσομένοις<br><br>f mid mpd<br>f mid npd
 λύω; λύ̄ω<br><br>pi  s1<br>ps  s1
-λελυμένω εἰήτην; λελυμένω εἰήτην<br><br>pero m-p d3
+λελυμένω εἰήτην; λελυμένω εἰήτην / λελυμένω εἴτην<br><br>pero m-p d3
 λύητον; λύ̄ητον<br><br>ps  d2<br>ps  d3
 λυσάσαις; λῡσά̄σαις<br><br>a  fpd
-λελύκοίη; λελύκοίη<br><br>pero  s3
-λελυμένοι εἶεν; λελυμένοι εἶεν<br><br>pero m-p p3
+λελύκοίη; λελυκὼς εἴη / λελύκοι / λελύκοίη<br><br>pero  s3
+λελυμένοι εἶεν; λελυμένοι εἴησαν / λελυμένοι εἶεν<br><br>pero m-p p3
 λυσάτω; λῡσάτω<br><br>aimp  s3
 λελυμέναι; λελυμέναι<br><br>per m-p fpn
 λυθήσοισθε; λυθήσοισθε<br><br>fo pas p2
 λελύμεθα; λελύμεθα<br><br>peri m-p p1
 λύσοιμι; λύ̄σοιμι<br><br>fo  s1
-λυθείησαν; λυθείησαν<br><br>ao pas p3
+λυθείησαν; λυθεῖεν / λυθείησαν<br><br>ao pas p3
 λύσας; λύ̄σᾱς<br><br>a  msn<br>a  msv
 ἐλύομεν; ἐλύ̄ομεν<br><br>ii  p1
 λυθήσεσθον; λυθήσεσθον<br><br>fi pas d2<br>fi pas d3
@@ -497,20 +497,20 @@
 λύσετε; λύ̄σετε<br><br>fi  p2
 ἔλυσας; ἔλῡσας<br><br>ai  s2
 λέλυται; λέλυται<br><br>peri m-p s3
-λελύκετε; λελύκετε<br><br>perimp  p2
-λυθήσει; λυθήσει<br><br>fi pas s2
+λελύκετε; λελυκότες ἐστέ / λελύκετε<br><br>perimp  p2
+λυθήσει; λυθήσῃ / λυθήσει<br><br>fi pas s2
 λελυμένῃ; λελυμένῃ<br><br>per m-p fsd
 λελυκότος; λελυκότος<br><br>per  msg<br>per  nsg
 λυουσῶν; λῡουσῶν<br><br>p  fpg
-λελύκοι; λελύκοι<br><br>pero  s3
+λελύκοι; λελυκὼς εἴη / λελύκοι / λελύκοίη<br><br>pero  s3
 λελυκυίας; λελυκυίᾱς<br><br>per  fsg<br>per  fpa
-λυθείητε; λυθείητε<br><br>ao pas p2
+λυθείητε; λυθεῖτε / λυθείητε<br><br>ao pas p2
 λύομεν; λύ̄ομεν<br><br>pi  p1
 λυσαμένην; λῡσαμένην<br><br>a mid fsa
 λυσοίσθην; λῡσοίσθην<br><br>fo mid d3
 λυσάσθων; λῡσάσθων<br><br>aimp mid d3<br>aimp mid p3
 λύσωσι; λύ̄σωσι<br><br>as  p3
-λυθεῖμεν; λυθεῖμεν<br><br>ao pas p1
+λυθεῖμεν; λυθεῖμεν / λυθείημεν<br><br>ao pas p1
 λυθησοίμεθα; λυθησοίμεθα<br><br>fo pas p1
 λυσόμεναι; λῡσόμεναι<br><br>f mid fpn
 λελυμένῳ; λελυμένῳ<br><br>per m-p msd<br>per m-p nsd
@@ -522,16 +522,16 @@
 ἐλύσαντο; ἐλύ̄σαντο<br><br>ai mid p3
 λελύσεσθαι; λελύ̄σεσθαι<br><br>futpinf pas
 λύοιντο; λύ̄οιντο<br><br>po m-p p3
-λυθείημεν; λυθείημεν<br><br>ao pas p1
+λυθείημεν; λυθεῖμεν / λυθείημεν<br><br>ao pas p1
 λυσάσῃ; λῡσά̄σῃ<br><br>a  fsd
-λελύκητον; λελύκητον<br><br>pers  d2<br>pers  d3
+λελύκητον; λελυκότε ἦτον / λελύκητον<br><br>pers  d2<br>pers  d3
 λυσόντων; λῡσόντων<br><br>f  mpg<br>f  npg
 λελυκυῖα; λελυκυῖα<br><br>per  fsn<br>per  fsv
 λύθητον; λύθητον<br><br>aimp pas d2
 ἐλελύκη; ἐλελύκη<br><br>plupi  s1
 λυθείσης; λυθείσης<br><br>a pas fsg
 λελυσοίσθην; λελῡσοίσθην<br><br>futpo pas d3
-λελυκότες ἦτε; λελυκότες ἦτε<br><br>pers  p2
+λελυκότες ἦτε; λελυκότες ἦτε / λελύκητε<br><br>pers  p2
 λυθῆναι; λυθῆναι<br><br>ainf pas
 λελυσομένοιν; λελῡσομένοιν<br><br>futp pas mdg<br>futp pas ndg
 λελύσθαι; λελύσθαι<br><br>perinf m-p
@@ -544,14 +544,14 @@
 λελύσομαι; λελύ̄σομαι<br><br>futpi pas s1
 λύσαιμεν; λύ̄σαιμεν<br><br>ao  p1
 λύητε; λύ̄ητε<br><br>ps  p2
-λελυμένω εἴτην; λελυμένω εἴτην<br><br>pero m-p d3
+λελυμένω εἴτην; λελυμένω εἰήτην / λελυμένω εἴτην<br><br>pero m-p d3
 λύσατον; λύ̄σατον<br><br>aimp  d2
 λελύσθων; λελύσθων<br><br>perimp m-p d3<br>perimp m-p p3
-λελυκὼς ᾖ; λελυκὼς ᾖ<br><br>pers  s3
+λελυκὼς ᾖ; λελυκὼς ᾖ / λελύκῃ<br><br>pers  s3
 λυθῶσι; λυθῶσι<br><br>as pas p3
 λελύκασι; λελύκᾱσι<br><br>peri  p3
 ἐλελύσθην; ἐλελύσθην<br><br>plupi m-p d3
-λελυκότε εἶτον; λελυκότε εἶτον<br><br>pero  d2
+λελυκότε εἶτον; λελυκότε εἴητον / λελυκότε εἶτον / λελύκοιτον<br><br>pero  d2
 λυσουσῶν; λῡσουσῶν<br><br>f  fpg
 λύοντος; λύ̄οντος<br><br>p  msg<br>p  nsg
 λελυσόμενος; λελῡσόμενος<br><br>futp pas msn
