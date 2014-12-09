@@ -15,7 +15,7 @@
 λυσούσαιν; λῡσούσαιν<br><br>f  fdg
 λελυσομένους; λελῡσομένους<br><br>futp pas mpa
 λύσασα; λύ̄σᾱσα<br><br>a  fsn<br>a  fsv
-λύσασι; λύ̄σᾱσι<br><br>a  mpd<br>a  npd
+λύσασι; λύ̄σᾱσι(ν)<br><br>a  mpd<br>a  npd
 λύσων; λύ̄σων<br><br>f  msn<br>f  msv
 λυσάμεναι; λῡσάμεναι<br><br>a mid fpn
 λελυσομένην; λελῡσομένην<br><br>futp pas fsa
@@ -72,7 +72,7 @@
 λελυσόμεναι; λελῡσόμεναι<br><br>futp pas fpn
 λελυμένην; λελυμένην<br><br>per m-p fsa
 λύουσα; λύ̄ουσα<br><br>p  fsn<br>p  fsv
-λύουσι; λύ̄ουσι<br><br>p  mpd<br>p  npd<br>pi  p3
+λύουσι; λύ̄ουσι(ν)<br><br>p  mpd<br>p  npd<br>pi  p3
 λελυμένοι; λελυμένοι<br><br>per m-p mpn
 λελυμένον; λελυμένον<br><br>per m-p nsn<br>per m-p msa
 λυθέν; λυθέν<br><br>a pas nsn
@@ -131,7 +131,7 @@
 λυσαμένας; λῡσαμένᾱς<br><br>a mid fpa
 λελυμένης; λελυμένης<br><br>per m-p fsg
 λύοντες; λύ̄οντες<br><br>p  mpn
-λύουσιν; λύ̄ουσιν<br><br>p  mpd<br>p  npd
+λύουσιν; λύ̄ουσι(ν)<br><br>p  mpd<br>p  npd
 λυθείσῃ; λυθείσῃ<br><br>a pas fsd
 λυσόμενος; λῡσόμενος<br><br>f mid msn
 λυομένω; λῡομένω<br><br>p m-p mdn<br>p m-p ndn
@@ -142,14 +142,14 @@
 λυθεῖσα; λυθεῖσα<br><br>a pas fsn<br>a pas fsv
 λύσασαι; λύ̄σᾱσαι<br><br>a  fpn
 λυσόμενα; λῡσόμενα<br><br>f mid npn
-λελυκόσι; λελυκόσι<br><br>per  mpd<br>per  npd
+λελυκόσι; λελυκόσι(ν)<br><br>per  mpd<br>per  npd
 λύσασαν; λύ̄σᾱσαν<br><br>a  fsa
 λυσαμένη; λῡσαμένη<br><br>a mid fsn<br>a mid fsv
-λύσουσι; λύ̄σουσι<br><br>f  mpd<br>f  npd<br>fi  p3
+λύσουσι; λύ̄σουσι(ν)<br><br>f  mpd<br>f  npd<br>fi  p3
 λυομένων; λῡομένων<br><br>p m-p mpg<br>p m-p fpg<br>p m-p npg
-λύσουσιν; λύ̄σουσιν<br><br>f  mpd<br>f  npd
+λύσουσιν; λύ̄σουσι(ν)<br><br>f  mpd<br>f  npd
 λύσουσα; λύ̄σουσα<br><br>f  fsn<br>f  fsv
-λύσασιν; λύ̄σᾱσιν<br><br>a  mpd<br>a  npd
+λύσασιν; λύ̄σᾱσι(ν)<br><br>a  mpd<br>a  npd
 λύσαντος; λύ̄σαντος<br><br>a  msg<br>a  nsg
 λυσομένῃ; λῡσομένῃ<br><br>f mid fsd
 λελυσομένων; λελῡσομένων<br><br>futp pas mpg<br>futp pas fpg<br>futp pas npg
@@ -177,7 +177,7 @@
 λυθησόμενα; λυθησόμενα<br><br>f pas npn
 λυθησόμενε; λυθησόμενε<br><br>f pas msv
 λυσούσαις; λῡσούσαις<br><br>f  fpd
-λελυκόσιν; λελυκόσιν<br><br>per  mpd<br>per  npd
+λελυκόσιν; λελυκόσι(ν)<br><br>per  mpd<br>per  npd
 λυσομέναιν; λῡσομέναιν<br><br>f mid fdg
 λελυσομέναιν; λελῡσομέναιν<br><br>futp pas fdg
 λυθησόμεναι; λυθησόμεναι<br><br>f pas fpn
@@ -192,7 +192,7 @@
 λελυσόμενοι; λελῡσόμενοι<br><br>futp pas mpn
 λυθεῖσαι; λυθεῖσαι<br><br>a pas fpn
 λυθεῖσαν; λυθεῖσαν<br><br>a pas fsa
-λυθεῖσιν; λυθεῖσιν<br><br>a pas mpd<br>a pas npd
+λυθεῖσιν; λυθεῖσι(ν)<br><br>a pas mpd<br>a pas npd
 λυομένους; λῡομένους<br><br>p m-p mpa
 λῦσον; λῦσον<br><br>f  nsn<br>aimp  s2
 λυθησομένῳ; λυθησομένῳ<br><br>f pas msd<br>f pas nsd
@@ -200,7 +200,7 @@
 λυούσας; λῡούσᾱς<br><br>p  fpa
 λυθησομένῃ; λυθησομένῃ<br><br>f pas fsd
 λελυμένα; λελυμένᾱ<br><br>per m-p fdn
-λυθεῖσι; λυθεῖσι<br><br>a pas mpd<br>a pas npd
+λυθεῖσι; λυθεῖσι(ν)<br><br>a pas mpd<br>a pas npd
 λυομένῳ; λῡομένῳ<br><br>p m-p msd<br>p m-p nsd
 λυσάμενον; λῡσάμενον<br><br>a mid nsn<br>a mid msa
 λύσοντε; λύ̄σοντε<br><br>f  mdn<br>f  ndn

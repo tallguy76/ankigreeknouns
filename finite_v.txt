@@ -6,20 +6,20 @@
 λυθήσεσθε; λυθήσεσθε<br><br>fi pas p2
 λυέτων; λῡέτων<br><br>pimp  d3
 λύοις; λύ̄οις<br><br>po  s2
-λυθεῖτε; λυθεῖτε<br><br>ao pas p2
+λυθεῖτε; λυθεῖτε / λυθείητε<br><br>ao pas p2
 λύσητον; λύ̄σητον<br><br>as  d2<br>as  d3
 λυθήσεται; λυθήσεται<br><br>fi pas s3
 λύσοις; λύ̄σοις<br><br>fo  s2
 ἐλύθητε; ἐλύθητε<br><br>ai pas p2
 λύσεσθε; λύ̄σεσθε<br><br>fi mid p2
-λύσαιεν; λύ̄σαιεν<br><br>ao  p3
+λύσαιεν; λύ̄σαιεν / λύ̄σειαν<br><br>ao  p3
 ἐλύθην; ἐλύθην<br><br>ai pas s1
 λύσαιτον; λύ̄σαιτον<br><br>ao  d2
 λύσοισθον; λύ̄σοισθον<br><br>fo mid d2
 λυθήσοιο; λυθήσοιο<br><br>fo pas s2
 λυσαίμεθα; λῡσαίμεθα<br><br>ao mid p1
-λύσει; λύ̄σει<br><br>fi  s3<br>fi mid s2
-λύει; λύ̄ει<br><br>pi  s3<br>pi m-p s2
+λύσει; λύ̄σῃ / λύ̄σει<br><br>fi  s3<br>fi mid s2
+λύει; λύ̄ῃ / λύ̄ει<br><br>pi  s3<br>pi m-p s2
 ἔλυον; ἔλῡον<br><br>ii  s1<br>ii  p3
 λύοισθε; λύ̄οισθε<br><br>po m-p p2
 λυσάσθω; λῡσάσθω<br><br>aimp mid s3
@@ -31,7 +31,7 @@
 λυθέντων; λυθέντων<br><br>a pas mpg<br>a pas npg<br>aimp pas p3
 λυοίτην; λῡοίτην<br><br>po  d3
 λυθήτω; λυθήτω<br><br>aimp pas s3
-λυθεῖεν; λυθεῖεν<br><br>ao pas p3
+λυθεῖεν; λυθεῖεν / λυθείησαν<br><br>ao pas p3
 λυθήσομαι; λυθήσομαι<br><br>fi pas s1
 λυσαίτην; λῡσαίτην<br><br>ao  d3
 λύσαιμι; λύ̄σαιμι<br><br>ao  s1
@@ -42,7 +42,7 @@
 λύησθε; λύ̄ησθε<br><br>ps m-p p2
 λυσαίσθην; λῡσαίσθην<br><br>ao mid d3
 ἐλύσατο; ἐλύ̄σατο<br><br>ai mid s3
-λύσῃ; λύ̄σῃ<br><br>as  s3<br>fi mid s2<br>as mid s2
+λύσῃ; λύ̄σῃ / λύ̄σει<br><br>as  s3<br>fi mid s2<br>as mid s2
 ἐλύσασθον; ἐλύ̄σασθον<br><br>ai mid d2
 λύωσι; λύ̄ωσι<br><br>ps  p3
 λύου; λύ̄ου<br><br>pimp m-p s2
@@ -54,30 +54,30 @@
 ἐλυθήτην; ἐλυθήτην<br><br>ai pas d3
 ἐλύσω; ἐλύ̄σω<br><br>ai mid s2
 λυθῆτε; λυθῆτε<br><br>as pas p2
-λυθεῖτον; λυθεῖτον<br><br>ao pas d2
-λύσαις; λύ̄σαις<br><br>ao  s2
+λυθεῖτον; λυθεῖτον / λυθείητον<br><br>ao pas d2
+λύσαις; λύ̄σαις / λύ̄σειας<br><br>ao  s2
 ἐλύσατον; ἐλύ̄σατον<br><br>ai  d2
 λύησθον; λύ̄ησθον<br><br>ps m-p d2<br>ps m-p d3
 λύσασθε; λύ̄σασθε<br><br>aimp mid p2
 λύσαισθον; λύ̄σαισθον<br><br>ao mid d2
 λύσησθε; λύ̄σησθε<br><br>as mid p2
 λύῃς; λύ̄ῃς<br><br>ps  s2
-λυθειήτην; λυθειήτην<br><br>ao pas d3
+λυθειήτην; λυθείτην / λυθειήτην<br><br>ao pas d3
 λυθείην; λυθείην<br><br>ao pas s1
 λύωνται; λύ̄ωνται<br><br>ps m-p p3
-λύουσι; λύ̄ουσι<br><br>p  mpd<br>p  npd<br>pi  p3
-λύῃ; λύ̄ῃ<br><br>ps  s3<br>pi m-p s2<br>ps m-p s2
+λύουσι; λύ̄ουσι(ν)<br><br>p  mpd<br>p  npd<br>pi  p3
+λύῃ; λύ̄ῃ / λύ̄ει<br><br>ps  s3<br>pi m-p s2<br>ps m-p s2
 λύσοιο; λύ̄σοιο<br><br>fo mid s2
-λυθείητον; λυθείητον<br><br>ao pas d2
-λυθείτην; λυθείτην<br><br>ao pas d3
+λυθείητον; λυθεῖτον / λυθείητον<br><br>ao pas d2
+λυθείτην; λυθείτην / λυθειήτην<br><br>ao pas d3
 λύετον; λύ̄ετον<br><br>pi  d2<br>pi  d3<br>pimp  d2
 ἐλυσάσθην; ἐλῡσάσθην<br><br>ai mid d3
 λύσετον; λύ̄σετον<br><br>fi  d2<br>fi  d3
-λύσειαν; λύ̄σειαν<br><br>ao  p3
+λύσειαν; λύ̄σαιεν / λύ̄σειαν<br><br>ao  p3
 λύεις; λύ̄εις<br><br>pi  s2
 λυσαίμην; λῡσαίμην<br><br>ao mid s1
 λύωμαι; λύ̄ωμαι<br><br>ps m-p s1
-λύσειε; λύ̄σειε<br><br>ao  s3
+λύσειε; λύ̄σαι / λύ̄σειε<br><br>ao  s3
 λύσομαι; λύ̄σομαι<br><br>fi mid s1
 λυόντων; λῡόντων<br><br>p  mpg<br>p  npg<br>pimp  p3
 λύσαιτε; λύ̄σαιτε<br><br>ao  p2
@@ -120,11 +120,11 @@
 ἐλύετο; ἐλύ̄ετο<br><br>ii m-p s3
 λύσοι; λύ̄σοι<br><br>fo  s3
 λυθῇς; λυθῇς<br><br>as pas s2
-λύσουσι; λύ̄σουσι<br><br>f  mpd<br>f  npd<br>fi  p3
+λύσουσι; λύ̄σουσι(ν)<br><br>f  mpd<br>f  npd<br>fi  p3
 λύοιμεν; λύ̄οιμεν<br><br>po  p1
 λύσῃς; λύ̄σῃς<br><br>as  s2
 λυθησόμεθα; λυθησόμεθα<br><br>fi pas p1
-λύσαι; λύ̄σαι<br><br>ao  s3
+λύσαι; λύ̄σαι / λύ̄σειε<br><br>ao  s3
 λύσω; λύ̄σω<br><br>fi  s1<br>as  s1
 ἐλύεσθε; ἐλύ̄εσθε<br><br>ii m-p p2
 ἐλύθη; ἐλύθη<br><br>ai pas s3
@@ -135,8 +135,8 @@
 λυθησοίσθην; λυθησοίσθην<br><br>fo pas d3
 λύεσθε; λύ̄εσθε<br><br>pi m-p p2<br>pimp m-p p2
 ἐλύθης; ἐλύθης<br><br>ai pas s2
-λύσειας; λύ̄σειας<br><br>ao  s2
-λυθήσῃ; λυθήσῃ<br><br>fi pas s2
+λύσειας; λύ̄σαις / λύ̄σειας<br><br>ao  s2
+λυθήσῃ; λυθήσῃ / λυθήσει<br><br>fi pas s2
 λύσοιμεν; λύ̄σοιμεν<br><br>fo  p1
 λῦσον; λῦσον<br><br>f  nsn<br>aimp  s2
 λυσοίμην; λῡσοίμην<br><br>fo mid s1
@@ -168,7 +168,7 @@
 λυσάτω; λῡσάτω<br><br>aimp  s3
 λυθήσοισθε; λυθήσοισθε<br><br>fo pas p2
 λύσοιμι; λύ̄σοιμι<br><br>fo  s1
-λυθείησαν; λυθείησαν<br><br>ao pas p3
+λυθείησαν; λυθεῖεν / λυθείησαν<br><br>ao pas p3
 ἐλύομεν; ἐλύ̄ομεν<br><br>ii  p1
 λυθήσεσθον; λυθήσεσθον<br><br>fi pas d2<br>fi pas d3
 λυθήσοιντο; λυθήσοιντο<br><br>fo pas p3
@@ -176,19 +176,19 @@
 λύσασθον; λύ̄σασθον<br><br>aimp mid d2
 λύσετε; λύ̄σετε<br><br>fi  p2
 ἔλυσας; ἔλῡσας<br><br>ai  s2
-λυθήσει; λυθήσει<br><br>fi pas s2
-λυθείητε; λυθείητε<br><br>ao pas p2
+λυθήσει; λυθήσῃ / λυθήσει<br><br>fi pas s2
+λυθείητε; λυθεῖτε / λυθείητε<br><br>ao pas p2
 λύομεν; λύ̄ομεν<br><br>pi  p1
 λυσοίσθην; λῡσοίσθην<br><br>fo mid d3
 λυσάσθων; λῡσάσθων<br><br>aimp mid d3<br>aimp mid p3
 λύσωσι; λύ̄σωσι<br><br>as  p3
-λυθεῖμεν; λυθεῖμεν<br><br>ao pas p1
+λυθεῖμεν; λυθεῖμεν / λυθείημεν<br><br>ao pas p1
 λυθησοίμεθα; λυθησοίμεθα<br><br>fo pas p1
 λύσοισθε; λύ̄σοισθε<br><br>fo mid p2
 λύομαι; λύ̄ομαι<br><br>pi m-p s1
 ἐλύσαντο; ἐλύ̄σαντο<br><br>ai mid p3
 λύοιντο; λύ̄οιντο<br><br>po m-p p3
-λυθείημεν; λυθείημεν<br><br>ao pas p1
+λυθείημεν; λυθεῖμεν / λυθείημεν<br><br>ao pas p1
 λύθητον; λύθητον<br><br>aimp pas d2
 λυσοίμεθα; λῡσοίμεθα<br><br>fo mid p1
 λύοιμι; λύ̄οιμι<br><br>po  s1
