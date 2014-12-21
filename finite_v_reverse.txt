@@ -1,0 +1,214 @@
+po  p1; λύ̄οιμεν
+ps  d3; λύ̄ητον
+ps  d2; λύ̄ητον
+fi pas d2; λυθήσεσθον
+fi pas d3; λυθήσεσθον
+po  p3; λύ̄οιεν
+po m-p d3; λῡοίσθην
+po  p2; λύ̄οιτε
+fo pas d2; λυθήσοισθον
+fo pas d3; λυθησοίσθην
+ps m-p d2; λύ̄ησθον
+ii m-p p1; ἐλῡόμεθα
+ao mid p3; λύ̄σαιντο
+ii m-p p3; ἐλύ̄οντο
+ii m-p p2; ἐλύ̄εσθε
+pi m-p s1; λύ̄ομαι
+pi m-p s3; λύ̄εται
+pi m-p s2; λύ̄ῃ<br>λύ̄ει
+ii  s1; ἔλῡον
+ii  s3; ἔλῡε
+ii  s2; ἔλῡες
+ao  s3; λύ̄σαι<br>λύ̄σειε
+ao  s2; λύ̄σαις<br>λύ̄σειας
+ao  s1; λύ̄σαιμι
+ai mid s1; ἐλῡσάμην
+ai mid s2; ἐλύ̄σω
+ai mid s3; ἐλύ̄σατο
+ii m-p d2; ἐλύ̄εσθον
+fi mid p2; λύ̄σεσθε
+fi mid p3; λύ̄σονται
+fi mid p1; λῡσόμεθα
+as  d2; λύ̄σητον
+fi  s1; λύ̄σω
+fi  s2; λύ̄σεις
+fi  s3; λύ̄σει
+pimp  s3; λῡέτω
+pimp  s2; λῦε
+as mid d3; λύ̄σησθον
+as mid d2; λύ̄σησθον
+aimp mid p2; λύ̄σασθε
+aimp mid p3; λῡσάσθων
+pi  p3; λύ̄ουσι
+pi  p2; λύ̄ετε
+pi  p1; λύ̄ομεν
+as pas d3; λυθῆτον
+ai  s3; ἔλῡσε
+pimp  d3; λῡέτων
+aimp pas d2; λύθητον
+aimp  p3; λῡσάντων
+aimp  p2; λύ̄σατε
+aimp pas d3; λυθήτων
+fi pas p1; λυθησόμεθα
+ao mid d3; λῡσαίσθην
+ao mid d2; λύ̄σαισθον
+fi pas p3; λυθήσονται
+fo pas p1; λυθησοίμεθα
+ai mid p1; ἐλῡσάμεθα
+ao  p3; λύ̄σαιεν<br>λύ̄σειαν
+ai mid p3; ἐλύ̄σαντο
+ao  p1; λύ̄σαιμεν
+pimp m-p d3; λῡέσθων
+pimp m-p d2; λύ̄εσθον
+fi  d2; λύ̄σετον
+fo mid p1; λῡσοίμεθα
+fo mid p2; λύ̄σοισθε
+fo mid p3; λύ̄σοιντο
+pi  s2; λύ̄εις
+pi  s3; λύ̄ει
+pi  s1; λύ̄ω
+aimp mid s3; λῡσάσθω
+aimp mid s2; λῦσαι
+po m-p d2; λύ̄οισθον
+po  s1; λύ̄οιμι
+po  s2; λύ̄οις
+po  s3; λύ̄οι
+ps m-p d3; λύ̄ησθον
+fi pas p2; λυθήσεσθε
+fo pas p2; λυθήσοισθε
+fo pas p3; λυθήσοιντο
+aimp  s2; λῦσον
+aimp  s3; λῡσάτω
+ao mid s2; λύ̄σαιο
+ao mid s3; λύ̄σαιτο
+ao mid s1; λῡσαίμην
+ps  p1; λύ̄ωμεν
+ps  p3; λύ̄ωσι
+ps  p2; λύ̄ητε
+as  s3; λύ̄σῃ
+as  s2; λύ̄σῃς
+as  s1; λύ̄σω
+po  d3; λῡοίτην
+po  d2; λύ̄οιτον
+as pas s1; λυθῶ
+as pas s2; λυθῇς
+as pas s3; λυθῇ
+pimp  p2; λύ̄ετε
+pimp  p3; λῡόντων
+ai pas p3; ἐλύθησαν
+ai pas p2; ἐλύθητε
+ii  p1; ἐλύ̄ομεν
+ii  p2; ἐλύ̄ετε
+ii  p3; ἔλῡον
+fo  p3; λύ̄σοιεν
+fo  p2; λύ̄σοιτε
+fo  p1; λύ̄σοιμεν
+fo mid s1; λῡσοίμην
+fo mid s3; λύ̄σοιτο
+fo mid s2; λύ̄σοιο
+fi mid s3; λύ̄σεται
+fi mid s2; λύ̄σῃ<br>λύ̄σει
+fi mid s1; λύ̄σομαι
+pimp m-p s2; λύ̄ου
+pimp m-p s3; λῡέσθω
+ai  s1; ἔλῡσα
+fi  d3; λύ̄σετον
+ai  s2; ἔλῡσας
+fi pas s1; λυθήσομαι
+fi pas s3; λυθήσεται
+fi pas s2; λυθήσῃ<br>λυθήσει
+as mid s2; λύ̄σῃ
+as mid s3; λύ̄σηται
+as mid s1; λύ̄σωμαι
+as  p2; λύ̄σητε
+as  p3; λύ̄σωσι
+as  p1; λύ̄σωμεν
+fi mid d2; λύ̄σεσθον
+fi mid d3; λύ̄σεσθον
+pi m-p d2; λύ̄εσθον
+pi m-p d3; λύ̄εσθον
+as pas p1; λυθῶμεν
+as pas p3; λυθῶσι
+as pas p2; λυθῆτε
+ai pas d2; ἐλύθητον
+aimp pas s3; λυθήτω
+aimp pas s2; λύθητι
+ai pas d3; ἐλυθήτην
+fo  s2; λύ̄σοις
+fo  s3; λύ̄σοι
+fo  s1; λύ̄σοιμι
+ao  d2; λύ̄σαιτον
+ao  d3; λῡσαίτην
+ps m-p p2; λύ̄ησθε
+ps m-p p1; λῡώμεθα
+pimp m-p p3; λῡέσθων
+pimp m-p p2; λύ̄εσθε
+fo pas s3; λυθήσοιτο
+fo pas s2; λυθήσοιο
+fo pas s1; λυθησοίμην
+as pas d2; λυθῆτον
+ps  s1; λύ̄ω
+ps  s2; λύ̄ῃς
+ps  s3; λύ̄ῃ
+ao mid p2; λύ̄σαισθε
+ao mid p1; λῡσαίμεθα
+ii m-p d3; ἐλῡέσθην
+po m-p p2; λύ̄οισθε
+po m-p p3; λύ̄οιντο
+po m-p p1; λῡοίμεθα
+fo mid d2; λύ̄σοισθον
+fo mid d3; λῡσοίσθην
+ao pas s3; λυθείη
+pi  d3; λύ̄ετον
+pi  d2; λύ̄ετον
+aimp mid d2; λύ̄σασθον
+aimp mid d3; λῡσάσθων
+ai pas s3; ἐλύθη
+ao  p2; λύ̄σαιτε
+ii  d2; ἐλύ̄ετον
+ii  d3; ἐλῡέτην
+ai mid p2; ἐλύ̄σασθε
+ai  p1; ἐλύ̄σαμεν
+ai  p2; ἐλύ̄σατε
+ai  p3; ἔλῡσαν
+aimp pas p3; λυθέντων
+as mid p3; λύ̄σωνται
+as mid p2; λύ̄σησθε
+as mid p1; λῡσώμεθα
+po m-p s3; λύ̄οιτο
+pimp  d2; λύ̄ετον
+fo  d3; λῡσοίτην
+fo  d2; λύ̄σοιτον
+fi  p1; λύ̄σομεν
+ao pas d3; λυθείτην<br>λυθειήτην
+fi  p3; λύ̄σουσι
+fi  p2; λύ̄σετε
+ao pas d2; λυθεῖτον<br>λυθείητον
+ai mid d3; ἐλῡσάσθην
+ai mid d2; ἐλύ̄σασθον
+aimp  d3; λῡσάτων
+aimp  d2; λύ̄σατον
+ao pas s1; λυθείην
+ao pas p1; λυθεῖμεν<br>λυθείημεν
+ao pas s2; λυθείης
+ii m-p s1; ἐλῡόμην
+ii m-p s2; ἐλύ̄ου
+ii m-p s3; ἐλύ̄ετο
+ai pas p1; ἐλύθημεν
+pi m-p p1; λῡόμεθα
+pi m-p p2; λύ̄εσθε
+pi m-p p3; λύ̄ονται
+ao pas p3; λυθεῖεν<br>λυθείησαν
+ps m-p p3; λύ̄ωνται
+ao pas p2; λυθεῖτε<br>λυθείητε
+aimp pas p2; λύθητε
+as  d3; λύ̄σητον
+ai pas s2; ἐλύθης
+ai  d2; ἐλύ̄σατον
+ai pas s1; ἐλύθην
+ai  d3; ἐλῡσάτην
+po m-p s2; λύ̄οιο
+po m-p s1; λῡοίμην
+ps m-p s3; λύ̄ηται
+ps m-p s2; λύ̄ῃ
+ps m-p s1; λύ̄ωμαι
