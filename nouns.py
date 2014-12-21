@@ -352,6 +352,10 @@ def prepare_shelf():
     glotta = SHELF['ἡ γλῶττα']
     glotta['Singular']['Genitive'] = u'(γλώχι̯ης) γλώττης'
     SHELF['ἡ γλῶττα'] = glotta
+    aithiops = SHELF['ὁ Αἰθίοψ']
+    aithiops['Plural']['Dative'] = u'Αἰθίοψῐ(ν)'
+    SHELF['ὁ Αἰθίοψ'] = aithiops
+
 
 
 
